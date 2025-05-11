@@ -1,0 +1,100 @@
+Tinkerer
+Owlbear Breeder
+Shaman
+Bottle Maker
+Stable Hand
+Innkeeper
+Blacksmith
+Washerwoman
+Town Crier
+Tailor
+Portrait Painter
+Cobbler
+Lamplighter
+Trapper
+Fletcher
+Tanner
+Herbalist
+Farmer
+Carpenter
+Stonemason
+Miner
+Fortune Teller
+Baker
+Town Guard
+Rat Catcher
+Doctor
+Messenger
+Lawyer
+Banker
+Animal Tamer
+Guide
+Cartographer
+Sheriff
+Dairy Maid
+Bookkeeper
+Academic
+Accountant
+Actor
+Apprentice
+Artisan
+Assassin
+Bandit
+Bard
+Beggar
+Bounty Hunter
+Brewer
+Con Artist
+Cook
+Druid
+Fisher
+Gambler
+Gravedigger
+Hunter
+Jester
+Knight
+Laborer
+Lawman
+Lumberjack
+Mercenary
+Noble
+Priest
+Ranger
+Sailor
+Scribe
+Servant
+Shepherd
+Slave
+Soldier
+Thief
+Thug
+Trader
+Treasure Hunter
+Wanderer
+Wizard
+Wrestler
+Lighthouse Keeper
+Landlord
+Author
+Lookout
+Clocksmith
+Exorcist
+Soapmaker
+Beekeeper
+Botanist
+Alchemist
+Potioneer
+Librarian
+Bartender
+Toymaker
+Woodcarver
+Squire
+Roofer
+Sculptor
+Scholar
+Nurse
+Nun
+Mortician
+Historian
+Gladiator
+Barber

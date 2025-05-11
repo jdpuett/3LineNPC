@@ -98,3 +98,9 @@ Mortician
 Historian
 Gladiator
 Barber
+Cortesan
+Madam
+Guild master
+Guild merchant
+Guild member
+Mercenary

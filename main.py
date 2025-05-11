@@ -1,8 +1,11 @@
 import tkinter as tk
-from tkinter import scrolledtext, messagebox, filedialog, Frame, Label, Entry, Button
+from tkinter import scrolledtext, messagebox, filedialog
 import random
 import os
 import json
+import xml.etree.ElementTree as ET
+import xml.dom.minidom as minidom
+import datetime
 
 class NPCGenerator:
     def __init__(self):
@@ -96,6 +99,59 @@ class NPCGenerator:
         except Exception as e:
             print(f"Error importing NPCs: {str(e)}")
             return False
+    
+    def export_to_campaign_logger(self, filename):
+        """Export saved NPCs to Campaign Logger XML format."""
+        try:
+            # Create root element
+            root = ET.Element("entries")
+            
+            # Add metadata
+            metadata = ET.SubElement(root, "metadata")
+            ET.SubElement(metadata, "title").text = "3LineNPC Export"
+            ET.SubElement(metadata, "date").text = datetime.datetime.now().strftime("%Y-%m-%d")
+            ET.SubElement(metadata, "type").text = "npc"
+            
+            # Add each NPC as an entry
+            for npc in self.saved_npcs:
+                entry = ET.SubElement(root, "entry")
+                
+                # Add tags based on NPC type
+                tags = ET.SubElement(entry, "tags")
+                ET.SubElement(tags, "tag").text = "npc"
+                
+                # Add NPC details
+                name = npc.get("name", "Unnamed NPC")
+                ET.SubElement(entry, "title").text = name
+                
+                # Create content with appearance, role, and hook
+                content = ET.SubElement(entry, "content")
+                
+                # Create HTML content for Campaign Logger
+                content_text = f"<h3>Appearance</h3>\n<p>{npc.get('appearance', '')}</p>\n"
+                content_text += f"<h3>Role</h3>\n<p>{npc.get('role', '')}</p>\n"
+                content_text += f"<h3>Hook</h3>\n<p>{npc.get('hook', '')}</p>\n"
+                
+                content.text = content_text
+                
+                # Add creation date
+                ET.SubElement(entry, "date").text = datetime.datetime.now().strftime("%Y-%m-%d")
+            
+            # Convert the XML to a pretty-printed string
+            rough_string = ET.tostring(root, encoding='utf-8')
+            parsed = minidom.parseString(rough_string)
+            pretty_xml = parsed.toprettyxml(indent="  ")
+            
+            # Remove empty lines (a common issue with minidom)
+            pretty_xml = '\n'.join([line for line in pretty_xml.split('\n') if line.strip()])
+            
+            # Save the XML file
+            with open(filename, 'w', encoding='utf-8') as file:
+                file.write(pretty_xml)
+            return True
+        except Exception as e:
+            print(f"Error exporting NPCs to Campaign Logger: {str(e)}")
+            return False
 
 
 class NPCApp:
@@ -122,11 +178,11 @@ class NPCApp:
     def create_ui(self):
         """Create the user interface."""
         # Main frame with padding
-        main_frame = Frame(self.root, padx=15, pady=15)
+        main_frame = tk.Frame(self.root, padx=15, pady=15)
         main_frame.pack(fill=tk.BOTH, expand=True)
         
         # App title
-        title = Label(main_frame, text="3 Line NPC Generator", font=("Arial", 16, "bold"))
+        title = tk.Label(main_frame, text="3 Line NPC Generator", font=("Arial", 16, "bold"))
         title.pack(pady=(0, 15))
         
         # NPC output area with scrollbar
@@ -139,77 +195,71 @@ class NPCApp:
         self.output_area.pack(fill=tk.BOTH, expand=True, pady=10)
         
         # Name input area
-        name_frame = Frame(main_frame)
+        name_frame = tk.Frame(main_frame)
         name_frame.pack(fill=tk.X, pady=(15, 5))
         
-        name_label = Label(name_frame, text="NPC Name:", font=("Arial", 10))
+        name_label = tk.Label(name_frame, text="NPC Name:", font=("Arial", 10))
         name_label.pack(side=tk.LEFT, padx=(0, 5))
         
-        self.name_entry = Entry(name_frame, font=("Arial", 10), width=30)
+        self.name_entry = tk.Entry(name_frame, font=("Arial", 10), width=30)
         self.name_entry.pack(side=tk.LEFT, fill=tk.X, expand=True)
         
         # Buttons area
-        button_frame = Frame(main_frame)
+        button_frame = tk.Frame(main_frame)
         button_frame.pack(fill=tk.X, pady=15)
         
-        # Generate button
-        self.generate_btn = Button(
+        # Generate button - using tk.Button for macOS compatibility
+        self.generate_btn = tk.Button(
             button_frame, 
-            text="Generate NPC (Space)", 
-            command=self.generate_npc,
-            bg="#4CAF50",
-            fg="white",
-            font=("Arial", 10, "bold"),
-            padx=10
+            text="Generate NPC",
+            command=self.generate_npc
         )
         self.generate_btn.pack(side=tk.LEFT, padx=(0, 5))
         
-        # Save button
-        self.save_btn = Button(
+        # Save button - using tk.Button for macOS compatibility
+        self.save_btn = tk.Button(
             button_frame, 
-            text="Save NPC (Ctrl+S)", 
-            command=self.save_npc,
-            bg="#2196F3",
-            fg="white",
-            font=("Arial", 10),
-            padx=10
+            text="Save NPC",
+            command=self.save_npc
         )
         self.save_btn.pack(side=tk.LEFT, padx=5)
         
-        # View saved button
-        self.view_btn = Button(
+        # View saved button - using tk.Button for macOS compatibility
+        self.view_btn = tk.Button(
             button_frame, 
-            text="View Saved", 
-            command=self.view_saved_npcs,
-            font=("Arial", 10),
-            padx=10
+            text="View Saved",
+            command=self.view_saved_npcs
         )
         self.view_btn.pack(side=tk.LEFT, padx=5)
         
         # Export/Import buttons
-        io_frame = Frame(main_frame)
+        io_frame = tk.Frame(main_frame)
         io_frame.pack(fill=tk.X, pady=(0, 10))
         
-        self.export_btn = Button(
+        self.export_btn = tk.Button(
             io_frame, 
-            text="Export NPCs", 
-            command=self.export_npcs,
-            font=("Arial", 10),
-            padx=10
+            text="Export NPCs",
+            command=self.export_npcs
         )
         self.export_btn.pack(side=tk.LEFT, padx=(0, 5))
         
-        self.import_btn = Button(
+        self.import_btn = tk.Button(
             io_frame, 
-            text="Import NPCs", 
-            command=self.import_npcs,
-            font=("Arial", 10),
-            padx=10
+            text="Import NPCs",
+            command=self.import_npcs
         )
         self.import_btn.pack(side=tk.LEFT, padx=5)
         
+        # Campaign Logger Export button
+        self.export_cl_btn = tk.Button(
+            io_frame, 
+            text="Export to Campaign Logger",
+            command=self.export_to_campaign_logger
+        )
+        self.export_cl_btn.pack(side=tk.LEFT, padx=5)
+        
         # Status bar
-        self.status_bar = Label(main_frame, text="", bd=1, relief=tk.SUNKEN, anchor=tk.W)
+        self.status_bar = tk.Label(main_frame, text="", bd=1, relief=tk.SUNKEN, anchor=tk.W)
         self.status_bar.pack(fill=tk.X, side=tk.BOTTOM, pady=(10, 0))
         
     def bind_shortcuts(self):
@@ -315,6 +365,35 @@ class NPCApp:
             )
         else:
             messagebox.showerror("Export Failed", "Failed to export NPCs")
+    
+    def export_to_campaign_logger(self):
+        """Export saved NPCs to Campaign Logger XML format."""
+        if not self.generator.saved_npcs:
+            messagebox.showinfo("No NPCs", "You haven't saved any NPCs yet")
+            return
+            
+        filename = filedialog.asksaveasfilename(
+            defaultextension=".xml",
+            filetypes=[("XML Files", "*.xml"), ("All Files", "*.*")],
+            title="Export to Campaign Logger"
+        )
+        
+        if not filename:
+            return
+            
+        success = self.generator.export_to_campaign_logger(filename)
+        
+        if success:
+            messagebox.showinfo(
+                "Export Successful", 
+                f"Exported {len(self.generator.saved_npcs)} NPCs to Campaign Logger format"
+            )
+            self.status_bar.config(
+                text=f"Exported {len(self.generator.saved_npcs)} NPCs to Campaign Logger",
+                fg="green"
+            )
+        else:
+            messagebox.showerror("Export Failed", "Failed to export NPCs to Campaign Logger")
     
     def import_npcs(self):
         """Import NPCs from a file."""

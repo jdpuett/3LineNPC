@@ -1,124 +1,61 @@
 import tkinter as tk
 import random
 import os
-import json
-from tkinter import messagebox, scrolledtext, filedialog
 
-class NPCGenerator:
-    def __init__(self, data_dir="data"):
-        self.data_dir = data_dir
-        self.appearances = self.load_traits("appearances.txt")
-        self.roles = self.load_traits("roles.txt")
-        self.hooks = self.load_traits("hooks.txt")
-        self.saved_npcs = []
-    
-    def load_traits(self, filename):
-        try:
-            filepath = os.path.join(self.data_dir, filename)
-            with open(filepath, 'r') as file:
-                return [line.strip() for line in file.readlines() if line.strip()]
-        except FileNotFoundError:
-            messagebox.showerror("File Not Found", f"Could not find {filename}")
-            return []
-    
-    def generate_npc(self):
-        if not (self.appearances and self.roles and self.hooks):
-            return "Error: One or more trait files are empty or missing."
-        
-        return {
-            "appearance": random.choice(self.appearances),
-            "role": random.choice(self.roles),
-            "hook": random.choice(self.hooks)
-        }
-    
-    def format_npc(self, npc):
-        return f"Appearance: {npc['appearance']}\nRole: {npc['role']}\nHook: {npc['hook']}"
-    
-    def save_npc(self, npc, name=""):
-        npc_with_name = npc.copy()
-        npc_with_name["name"] = name
-        self.saved_npcs.append(npc_with_name)
-        
-    def export_saved_npcs(self, filename):
-        with open(filename, 'w') as file:
-            json.dump(self.saved_npcs, file, indent=4)
+# Get the directory where the script is located
+script_dir = os.path.dirname(os.path.abspath(__file__))
 
+# Function to read lines from a file
+def read_file(file_path):
+    try:
+        with open(file_path, 'r') as file:
+            lines = file.readlines()
+        return [line.strip() for line in lines if line.strip()]  # Skip empty lines
+    except FileNotFoundError:
+        tk.messagebox.showerror("Error", f"Could not find file: {os.path.basename(file_path)}")
+        return []
 
-class NPCGeneratorApp:
-    def __init__(self, root):
-        self.root = root
-        self.generator = NPCGenerator()
-        self.current_npc = None
-        
-        self.setup_ui()
+# File paths with correct directory
+appearances_file = os.path.join(script_dir, 'appearances.txt')
+roles_file = os.path.join(script_dir, 'roles.txt')
+hooks_file = os.path.join(script_dir, 'hooks.txt')
+
+# Create the main window before reading files
+root = tk.Tk()
+root.title("NPC Generator")
+root.geometry("500x300")  # Set the window size
+
+# Read traits from files
+appearances = read_file(appearances_file)
+roles = read_file(roles_file)
+hooks = read_file(hooks_file)
+
+# Function to generate a 3 Line NPC
+def generate_3_line_npc():
+    if not appearances or not roles or not hooks:
+        return "Error: One or more trait files are missing or empty."
     
-    def setup_ui(self):
-        self.root.title("3 Line NPC Generator")
-        self.root.geometry("600x400")
-        
-        # Main frame
-        main_frame = tk.Frame(self.root)
-        main_frame.pack(fill=tk.BOTH, expand=True, padx=10, pady=10)
-        
-        # Output area
-        self.output_text = scrolledtext.ScrolledText(main_frame, height=10, width=60, wrap=tk.WORD)
-        self.output_text.pack(fill=tk.BOTH, expand=True, pady=10)
-        
-        # Buttons frame
-        button_frame = tk.Frame(main_frame)
-        button_frame.pack(fill=tk.X, pady=10)
-        
-        # Generate button
-        generate_btn = tk.Button(button_frame, text="Generate NPC", command=self.generate_npc)
-        generate_btn.pack(side=tk.LEFT, padx=5)
-        
-        # Save button
-        save_btn = tk.Button(button_frame, text="Save NPC", command=self.save_npc)
-        save_btn.pack(side=tk.LEFT, padx=5)
-        
-        # Export button
-        export_btn = tk.Button(button_frame, text="Export Saved NPCs", command=self.export_npcs)
-        export_btn.pack(side=tk.LEFT, padx=5)
-        
-        # NPC Name entry
-        name_frame = tk.Frame(main_frame)
-        name_frame.pack(fill=tk.X, pady=5)
-        tk.Label(name_frame, text="NPC Name:").pack(side=tk.LEFT, padx=5)
-        self.name_entry = tk.Entry(name_frame, width=30)
-        self.name_entry.pack(side=tk.LEFT, padx=5, fill=tk.X, expand=True)
-    
-    def generate_npc(self):
-        self.current_npc = self.generator.generate_npc()
-        self.output_text.delete('1.0', tk.END)
-        self.output_text.insert(tk.END, self.generator.format_npc(self.current_npc))
-        
-    def save_npc(self):
-        if not self.current_npc:
-            messagebox.showinfo("No NPC", "Generate an NPC first!")
-            return
-            
-        name = self.name_entry.get().strip() or "Unnamed NPC"
-        self.generator.save_npc(self.current_npc, name)
-        messagebox.showinfo("Saved", f"NPC '{name}' saved!")
-        
-    def export_npcs(self):
-        if not self.generator.saved_npcs:
-            messagebox.showinfo("No NPCs", "No NPCs have been saved yet!")
-            return
-            
-        filename = filedialog.asksaveasfilename(
-            defaultextension=".json",
-            filetypes=[("JSON Files", "*.json"), ("All Files", "*.*")]
-        )
-        if filename:
-            self.generator.export_saved_npcs(filename)
-            messagebox.showinfo("Export Complete", f"Saved {len(self.generator.saved_npcs)} NPCs to {filename}")
+    appearance = random.choice(appearances)
+    role = random.choice(roles)
+    hook = random.choice(hooks)
+    return f"Appearance: {appearance}\nRole: {role}\nHook: {hook}"
 
+# Function to update the output in the same window
+def update_output():
+    npc = generate_3_line_npc()
+    output_text.delete('1.0', tk.END)  # Clear the existing text
+    output_text.insert(tk.END, npc)  # Insert the new NPC
 
-def main():
-    root = tk.Tk()
-    app = NPCGeneratorApp(root)
-    root.mainloop()
+# Output Text widget
+output_text = tk.Text(root, height=10, width=50, wrap=tk.WORD)
+output_text.pack(pady=20)
 
-if __name__ == "__main__":
-    main()
+# Generate button
+generate_button = tk.Button(root, text="Generate", command=update_output)
+generate_button.pack(pady=20)
+
+# Generate an NPC at startup
+update_output()
+
+# Run the main loop
+root.mainloop()

@@ -108,1005 +108,1003 @@ A person with a talent for the martial and a weapon at the ready.
 A figure with a love for the opulent and a velvet cloak.
 A person with a taste for the whimsical and a fanciful tale.
 A figure with a love for the tranquil and a babbling brook.
-## 1000 NPC Appearances
-
-1. A scarred old warrior with a permanent scowl
-2. A mysterious cloaked figure hiding their face
-3. A cheerful young merchant with nimble fingers
-4. A person with luscious, carbon-black hair in a long braid
-5. A figure with a face only a mother could love
-6. A person with a muscular yet lanky build
-7. A thin, delicate figure with porcelain-like skin
-8. Someone missing several teeth but smiling broadly
-9. A person with large bushy eyebrows that seem to have a life of their own
-10. A figure bearing a distinctive military tattoo on their forearm
-11. A tall person with piercing green eyes and sun-kissed skin
-12. A short, rotund individual with a jolly laugh and rosy cheeks
-13. An elderly person with wise blue eyes and silver hair
-14. A muscular warrior with a prominent scar across their cheek
-15. A slender elf with delicate features and long, flowing hair
-16. A dwarf with a thick beard and a twinkle in their eye
-17. A person with an intricate tattoo covering one side of their face
-18. A figure cloaked in shadows, with only their bright eyes visible
-19. A youth with freckles and an infectious smile
-20. A noble with impeccable posture and a commanding presence
-21. A half-orc with mismatched eyes and tribal scarification
-22. A tiefling with spiraling horns and skin the color of sunrise
-23. A dragonborn with iridescent scales and smoke curling from their nostrils
-24. A gnome with oil-stained hands and goggles perched on their forehead
-25. A halfling with a walking staff twice their height and muddy feet
-26. A half-elf with pointed ears adorned with numerous piercings
-27. A kenku with glossy black feathers and trinkets woven into their plumage
-28. A lizardfolk with a crest of vibrant spines and reptilian yellow eyes
-29. A tabaxi with spotted fur and jewelry jingling with every movement
-30. A firbolg with moss growing in their beard and flowers in their hair
-31. A person with heterochromia - one eye blue, one eye amber
-32. A figure with albinism and ghostly white hair
-33. A person wearing an ornate mask they refuse to remove
-34. A figure with extensive ritual scarification telling their life story
-35. A person with a patchwork of different skin tones from experimental healing
-36. A person with a scar running from forehead to chin
-37. An individual with piercing eyes that never blink
-38. A figure carrying an unusual staff topped with a strange crystal
-39. A person wearing clothing from a bygone era
-40. An individual with an elaborate hairstyle that must take hours to maintain
-41. A figure with a wooden prosthetic limb carved with runes
-42. A person with several missing fingers on their left hand
-43. A figure with unnaturally pale skin and dark circles under their eyes
-44. A person whose body is covered in religious symbols
-45. An individual with long unkempt hair covering most of their face
-46. A figure wearing a necklace made of teeth or claws
-47. A person with several facial piercings that clink when they move
-48. A figure wearing armor that seems too big for their frame
-49. A person with oddly colored eyes that seem to glow in dim light
-50. An individual with ceremonial face paint in bold patterns
-51. A person whose hair changes color depending on the light
-52. A figure whose skin has a faint metallic sheen
-53. A person with fingernails painted with tiny detailed scenes
-54. A figure whose footsteps make no sound when they walk
-55. A person with a limb that seems slightly longer than its counterpart
-56. An individual who constantly shivers despite the temperature
-57. A figure with a voice that seems to come from somewhere else
-58. A person with a single streak of white in otherwise dark hair
-59. A figure with a perpetual look of surprise on their face
-60. A person whose clothing is adorned with hundreds of tiny bells
-61. An individual with perfectly symmetrical features
-62. A figure wearing gloves regardless of weather or situation
-63. A person with skin so translucent their veins are clearly visible
-64. A figure who carries a small cage with something unseen inside
-65. A person whose pupils are shaped like stars or crescents
-66. An individual with an unnaturally wide smile
-67. A figure wearing a hat with a brim so wide it hides their face
-68. A person with ritualistic burn marks on their palms
-69. A figure whose shadow sometimes moves independently
-70. A person with small horns or antlers partially hidden by hair
-71. An individual who smells strongly of exotic herbs and spices
-72. A figure wearing clothes made from unusual materials
-73. A person whose skin is covered in a fine layer of scales
-74. A figure with an eye patch decorated with mystical symbols
-75. A person with a pocket watch that never leaves their hand
-76. An individual whose laugh sounds like musical notes
-77. A figure with a birthmark shaped like a known constellation
-78. A person who walks with an exaggerated limp
-79. A figure whose hair moves as if underwater
-80. A person with a small animal always perched on their shoulder
-81. An individual who speaks through a strange mechanical device
-82. A figure whose clothing changes color with their mood
-83. A person with bandaged hands and mysterious stains
-84. A figure with unnaturally sharp canine teeth
-85. A person who carries a mirror and constantly checks their reflection
-86. An individual with elaborate body modifications
-87. A figure whose eyes reflect light like a cat's
-88. A person who always stands perfectly still when not moving
-89. A figure wearing a circlet or crown of unusual design
-90. A person with a distinctive accent from a far-off land
-91. An individual who constantly fidgets with a specific object
-92. A figure with tattooed symbols around their eyes
-93. A person whose skin glitters subtly in direct light
-94. A figure wearing armor made from an unknown creature's hide
-95. A person with an animated tattoo that shifts positions
-96. An individual whose breath is visible even on warm days
-97. A figure who carries a book bound in strange material
-98. A person with unusually large or small hands
-99. A figure who speaks to inanimate objects as if they're alive
-100. A person with ritual scars in geometric patterns
-101. A warforged with glowing runes etched into their metal frame
-102. A changeling caught mid-shift with features not quite settled
-103. A githyanki with yellowish skin and an ornate silver sword
-104. A triton with scales that shimmer like the ocean depths
-105. A yuan-ti with patches of scales and slitted pupils
-106. A goliath with tribal tattoos and stone-like skin
-107. A genasi with hair that moves like flames (or water/leaves/smoke)
-108. A kalashtar with eyes that seem to look into multiple planes at once
-109. A tortle with an intricately carved shell and weathered face
-110. A minotaur with polished horns adorned with golden rings
-111. A person with a hunchback hidden beneath a voluminous cloak
-112. A figure with six fingers on each hand
-113. A person with tribal tattoos that glow faintly at night
-114. An individual whose tears leave gold flecks on their cheeks
-115. A figure with prehensile hair that moves on its own
-116. A person with skin that changes texture depending on emotions
-117. An individual whose face is partially covered by living vines
-118. A figure whose joints bend in unnatural directions
-119. A person whose voice causes small objects to vibrate
-120. An individual with patterns of freckles forming words in an ancient language
-121. A figure with a third eye hidden beneath a headband
-122. A person covered in ritual piercings connected by thin chains
-123. An individual with fingertips that glow like embers
-124. A figure whose blood visibly runs gold or silver through their veins
-125. A person who carries a lantern containing something other than flame
-126. An individual with gill-like slits on their neck
-127. A figure whose face appears different to each person who sees them
-128. A person with gemstones embedded in their skin
-129. An individual whose footsteps leave brief traces of elemental energy
-130. A figure with a voice that echoes even in open spaces
-131. A person whose shadow is shaped differently than their body
-132. An individual who floats slightly above the ground when excited
-133. A figure whose skin displays the constellations of the night sky
-134. A person with ritualistic brands marking them as chosen
-135. An individual whose laughter causes plants to briefly bloom
-136. A figure with eyes that reflect scenes they've witnessed
-137. A person whose body temperature is noticeably different from normal
-138. An individual who speaks with multiple voices simultaneously
-139. A figure with a crystalline growth protruding from one shoulder
-140. A person whose fingers elongate when they reach for something
-141. An individual who appears slightly transparent in certain light
-142. A figure who carries a container of mysterious liquid they occasionally drink
-143. A person with ornate clockwork parts visible through torn clothing
-144. An individual with bone structures visible beneath their skin
-145. A figure whose presence causes water to ripple
-146. A person with a heartbeat audible from several feet away
-147. An individual whose hair turns into feathers near the ends
-148. A figure with living insects or small creatures as jewelry
-149. A person whose sleeves hide numerous concealed weapons
-150. A shifter with animalistic features becoming more pronounced when agitated
-151. A satyr with curved horns and hooves that click on stone floors
-152. A centaur with a bow across their back and wildflowers braided into their tail
-153. A harpy with beautiful plumage and a haunting gaze
-154. An aasimar with a subtle glow emanating from beneath their skin
-155. An individual wearing elaborate ceremonial armor rarely seen in this region
-156. A figure with weather patterns tattooed on their body that change with actual weather
-157. A person who carries a sentient weapon that whispers audibly
-158. An individual with clothing made of materials that shouldn't exist together
-159. A figure with an orbiting familiar that never strays far
-160. A person with multiple mouths located in unusual places
-161. An individual whose age seems to fluctuate throughout conversation
-162. A figure wearing a helm that completely obscures their features
-163. A person who leaves a trail of small glowing footprints that fade quickly
-164. An individual whose voice can be heard in the listener's mind rather than ears
-165. A figure whose body parts seem stitched together
-166. A person wearing armor made from dragon scales
-167. An individual with eyes that change color based on the time of day
-168. A figure surrounded by a haze that distorts vision slightly
-169. A person with skin etched with a complete runic alphabet
-170. An individual who carries a container of souls or spirits
-171. A figure with animal appendages hidden beneath clothing
-172. A person whose touch briefly changes the color of objects
-173. An individual who casts two shadows in any light
-174. A figure who breathes out colored smoke or mist
-175. A person with a pocket dimension visible through their open mouth
-176. An individual with ritualistic sacrifice scars across their torso
-177. A figure whose presence causes nearby fires to dance or change color
-178. A person covered in a fine layer of ash that never fully washes away
-179. An individual whose eyes contain moving scenes like living paintings
-180. A figure with membranes between their fingers like webbing
-181. A person who speaks in rhymes or riddles involuntarily
-182. An individual whose body emits a subtle harmonic hum
-183. A figure whose face shifts subtly to mimic those they speak with
-184. A person with an exoskeleton partially visible through their skin
-185. An individual who carries a jar containing a preserved organ
-186. A figure with symmetrical burns in the pattern of a magical seal
-187. A person whose appearance subtly changes with the phases of the moon
-188. An individual with impossible geometry in their physical form
-189. A figure whose clothing is made from pages of forbidden texts
-190. A person with extremities that occasionally phase through solid objects
-191. An individual with eyes that reflect what they're thinking
-192. A rogue with a sly grin and mischievous eyes
-193. A mage with an air of mystery and intelligent, calculating eyes
-194. A bard with a charming smile and a lute slung over their shoulder
-195. A priest with kind eyes and a gentle demeanor
-196. A sailor with weathered skin and a gold hoop earring
-197. A knight in shining armor, with a strong jaw and noble brow
-198. A merchant with a shrewd look and a quick, assessing glance
-199. A peasant with rough hands and a hopeful expression
-200. A traveler with a wide-brimmed hat and a cloak dusted from the road
-201. A child with wide, curious eyes and a mop of unruly hair
-202. A figure whose tears crystallize into gemstones when they fall
-203. A person who carries an impossible number of items on their person
-204. An individual with a familiar that takes the form of an inanimate object
-205. A figure whose body parts can detach and function independently
-206. A person with symbiotic creatures living on their skin
-207. An individual who appears in monochrome, as if drained of color
-208. A figure whose facial features rearrange when they're not observed
-209. A person with an extra set of translucent arms
-210. An individual whose body occasionally glitches like a magical illusion
-211. A figure with multiple faces visible from different angles
-212. A person who hovers slightly above the ground instead of walking
-213. An individual with body art that predicts future events
-214. A figure whose clothing is made of elemental energy
-215. A person with a portion of their body turned to stone
-216. An individual who changes biological sex with the rising and setting sun
-217. A figure whose words appear as glowing text when they speak
-218. A person followed by musical notes that correspond to their emotions
-219. An individual whose body parts are connected by visible streams of energy
-220. A figure with a cloud perpetually hovering above their head
-221. A person who casts colored light from their eyes when using magic
-222. An individual whose skin occasionally becomes translucent
-223. A figure with wounds that leak light instead of blood
-224. A person whose reflection acts independently in mirrors
-225. An individual with features from multiple species blended together
-226. A figure who speaks with the collective voice of their ancestors
-227. A person whose aura is visible to everyone, not just those with magical sight
-228. An individual with limbs made of different materials than their torso
-229. A figure whose age reverses under certain conditions
-230. A person whose hair turns into living creatures when cut
-231. An individual whose clothing is alive and changes shape
-232. A figure with a preserved ancestral appendage they consult for guidance
-233. A person whose emotions manifest as visible spectral shapes
-234. An individual whose body contains a visible miniature galaxy
-235. A figure with clothing from a civilization long extinct
-236. A person whose internal organs are occasionally visible through transparent skin
-237. An individual with a parasitic twin partially emerged
-238. A figure with anatomically impossible features that somehow function
-239. A person whose dreams physically manifest while they sleep
-240. An individual composed partially of swarm creatures
-241. A figure with a clock face embedded in their chest showing an impossible time
-242. A person with a pocket dimension visible through a wound
-243. An individual whose presence distorts reality in subtle ways
-244. A figure whose body is composed of tiny interlocking mechanical parts
-245. A person with multiple personalities that physically manifest when active
-246. An individual who can unfold parts of themselves like origami
-247. A figure with a portable hole located somewhere on their body
-248. A person with glass or crystal body parts that contain moving scenes
-249. An individual who leaves duplicate afterimages when moving quickly
-250. A figure with an aura that affects the physical world around them
-251. A person with a figure of an archer with a bow ready to fire
-252. An intelligent ooze that has formed into a humanoid shape
-253. A figure with an aura of power and eyes that seem to see through you
-254. A person with an exotic accent and colorful attire from a distant land
-255. A scholar with round spectacles and an absent-minded expression
-256. A craftsman with calloused hands and a look of concentration
-257. A hunter with sharp eyes and a camouflaged cloak
-258. A figure with a hooded cloak and a mysterious air
-259. A person with laughter lines around their eyes and a warm smile
-260. A guard with a stern face and a vigilant gaze
-261. A healer with a soothing voice and a gentle touch
-262. A figure with a regal bearing and a crown of intricate design
-263. A person with a wild mane of hair and a fierce expression
-264. A figure with a serene face and a peaceful aura
-265. A person with a boisterous laugh and a larger-than-life personality
-266. A figure with a gaunt face and haunted eyes
-267. A person with a playful smirk and a twinkle in their eye
-268. A figure with a stoic expression and a battle-hardened look
-269. A person with a scholarly air and a pile of books at their side
-270. A figure with a gentle face and a motherly smile
-271. A person with a rugged appearance and a weather-beaten hat
-272. A figure with a flamboyant outfit and a confident stride
-273. A person with a somber expression and a black mourning band
-274. A figure with a lean build and a predatory gaze
-275. A person with a soft voice and a shy demeanor
-276. A figure with an athletic build and a competitive glint in their eye
-277. A person with a bohemian style and a carefree attitude
-278. A figure with a commanding voice and a presence that fills the room
-279. A person with a melodic voice and a love for storytelling
-280. A figure with a love for finery and a collection of jewels
-281. A person with a passion for adventure and a map in hand
-282. A figure with a love for nature and a garland of flowers in their hair
-283. A person with a penchant for the arcane and a staff of power
-284. A figure with a love for the sea and a ship's wheel pendant
-285. A person with a fondness for animals and a pet at their side
-286. A figure with a love for the arts and a paint-stained apron
-287. A person with a taste for luxury and a silk robe
-288. A figure with a love for the simple life and a straw hat
-289. A person with a talent for healing and a pouch of herbs
-290. A figure with a love for music and a song on their lips
-291. A person with a knack for invention and a tool belt
-292. A figure with a love for the stars and a telescope nearby
-293. A person with a gift for languages and a book of phrases
-294. A figure with a love for the written word and a quill in hand
-295. A person with a talent for cooking and a delicious aroma following them
-296. A figure with a love for dance and a pair of worn shoes
-297. A person with a flair for drama and a dramatic cloak
-298. A figure with a love for the wild and a compass around their neck
-299. A person with a talent for crafting and a piece of their work displayed
-300. A figure with a love for the mystical and a crystal ball
-301. A monastic figure with a shaved head and simple robes
-302. A duelist with a distinguished mustache and formal attire
-303. A nomad with wind-chapped skin and layers of practical clothing
-304. A towering figure with braided hair and ritual face paint
-305. A diminutive person with a walking cane and spectacles
-306. A heavily tattooed individual with tribal markings from head to toe
-307. A person wearing a traditional mask used in cultural ceremonies
-308. A figure with distinctive blue woad paint in spiraling patterns
-309. A person with a wooden leg carved to resemble a lion's paw
-310. A figure wearing the ceremonial garb of a royal executioner
-311. A person with elaborate makeup denoting high status
-312. A figure whose clothing is covered in small mirrors
-313. A person with a decorative metal faceplate concealing an old injury
-314. A figure wearing the unmistakable uniform of an elite military unit
-315. A person with a long pipe that produces smoke in unusual colors
-316. A figure completely wrapped in bandages like a mummy
-317. A person with an impressively long beard braided with small totems
-318. A figure wearing a crown of candles that perpetually burn
-319. A person with a hunched posture who constantly mumbles calculations
-320. A figure with fingernails grown and shaped into natural weapons
-321. A person wearing a cape made from hundreds of small cloth patches
-322. A figure whose skin is decorated with temporary ritual markings
-323. A person with a mechanical eye that whirs when focusing
-324. A figure wearing the traditional garb of a foreign dignitary
-325. A person with a neck elongated by ritual metal rings
-326. A figure with a ceremonial headdress of impressive proportions
-327. A person with elaborate scarification denoting tribal status
-328. A figure with an amulet that seems to move on its own
-329. A person with a split-colored face paint dividing their features
-330. A figure wearing gloves with small bells attached to each finger
-331. A person whose clothing is covered in written prayers and blessings
-332. A figure with a walking staff topped with a carved animal head
-333. A person with ritual piercings connected by fine golden chains
-334. A figure wearing an elaborate wig styled in an ancient fashion
-335. A person with one arm replaced by a magical prosthetic
-336. A figure whose eyes are covered by a blindfold yet moves with certainty
-337. A person with an unusually tall hat designating their profession
-338. A figure wearing boots that leave unusual tracks behind
-339. A person with a necklace of tokens from those they've helped
-340. A figure whose cloak seems to be made from shadow itself
-341. A person with an elaborate tattoo that appears to change daily
-342. A figure with a staff that contains a trapped elemental
-343. A person wearing a backpack that occasionally moves on its own
-344. A figure with perfect posture and a dancer's grace
-345. A person whose hands are stained from years of working with dyes
-346. A figure with a hood lined with small charms and trinkets
-347. A person with intricate henna patterns covering their hands and feet.
-348. A figure wearing boots that seem too large yet walk with silence
-349. A person with a book chained to their belt that whispers
-350. A figure whose robes change color depending on the conversation
-351. A person with a taste for the exotic and a collection of artifacts
-352. A figure with a love for the cold and a fur-lined cloak
-353. A person with a talent for disguise and a changeable appearance
-354. A figure with a love for the heat and a fan in hand
-355. A person with a gift for storytelling and an eager audience
-356. A figure with a love for the dark and a lantern held high
-357. A person with a flair for the theatrical and a mask
-358. A figure with a love for the light and a radiant smile
-359. A person with a talent for negotiation and a persuasive tone
-360. A figure with a love for the festive and a colorful outfit
-361. A stitched-together flesh golem with mismatched body parts
-362. A living construct made of animated clockwork and gears
-363. A being of pure elemental energy barely contained in humanoid form
-364. A person with skin that functions as a map to an unknown location
-365. A figure with a body composed of thousands of tiny insects working as one
-366. A person whose form occasionally dissolves into mist
-367. A figure with mushrooms and fungi growing from their body
-368. A person who appears to be made entirely of stained glass
-369. A figure with body parts that can stretch to impossible lengths
-370. A person with a mouth that opens wider than physically possible
-371. A figure whose body sometimes clips through reality like a glitch
-372. A person with limbs that can detach and reattach at will
-373. A figure made of constantly flowing and reforming liquid
-374. A person whose body contains visible celestial bodies
-375. A figure with features that blur and shift when looked at directly
-376. A person with skin that peels away revealing light underneath
-377. A figure whose body parts can swap positions spontaneously
-378. A person who appears to be a living shadow with glowing eyes
-379. A figure with multiple faces arranged around their head
-380. A person whose body sometimes becomes two-dimensional
-381. A figure that appears to be a walking doorway to another place
-382. A person whose form occasionally splits into multiple copies
-383. A figure with a body made of interlocking geometric shapes
-384. A person whose features are constantly in motion like rippling water
-385. A figure with impossible anatomy that defies physical laws
-386. A person whose body contains visible miniature versions of themselves
-387. A figure that appears differently depending on which eye you use to look
-388. A person who leaves parts of themselves behind that dissolve slowly
-389. A figure whose body contains windows showing different locations
-390. A person whose form occasionally reveals the cosmos within
-391. A figure with multiple overlapping versions of themselves slightly out of sync
-392. A person whose body parts operate independently of each other
-393. A figure who appears to be a hole in reality shaped like a person
-394. A person with a taste for the refined and a glass of wine
-395. A figure with a love for the quiet and a secluded spot
-396. A person with a talent for strategy and a game of chess
-397. A figure with a love for the hustle and bustle and a busy market stall
-398. A person with a gift for empathy and a comforting presence
-399. A figure with a love for the challenge and a mountain climbed
-400. A person with a flair for the unique and an unusual accessory
-401. A figure with a love for the ancient and a relic
-402. A person with a talent for leadership and a group of followers
-403. A figure with a love for the new and a gadget
-404. A person with a taste for the adventurous and a daring feat
-405. A figure with a love for the serene and a meditative pose
-406. A person with a talent for magic and a spell being cast
-407. A figure with a love for the vibrant and a bright scarf
-408. A person with a gift for the musical and an instrument
-409. A figure with a love for the mysterious and a secret
-410. A person with a flair for the extravagant and a flashy ring
-411. A figure with a love for the homely and a warm hearth
-412. A doppelganger unable to fully commit to one appearance
-413. A person whose body is halfway transformed into an animal
-414. A figure with anatomy reminiscent of deep sea creatures
-415. A person whose bones are visible and glowing beneath their skin
-416. A figure with plant life growing from their body like a living garden
-417. A person who appears to be a moving painting
-418. A figure with body parts that fade into smoke at the edges
-419. A person with visible ley lines running across their skin
-420. A figure composed of animated origami paper
-421. A person whose every movement leaves trailing copies like echoes
-422. A figure with body parts that occasionally become transparent
-423. A person whose form seems to be constantly recreating itself
-424. A figure that appears to be multiple people merged together
-425. A person whose body contains miniature weather systems
-426. A figure whose appearance changes based on the observer's fears
-427. A person who occasionally splits into multiple identical copies
-428. A figure whose body has distinct boundaries like puzzle pieces
-429. A person with sections of their form existing in different planes
-430. A figure whose presence warps the appearance of objects around them
-431. A person whose body parts can be removed and function independently
-432. A figure that appears to be a walking constellation
-433. A person whose form is composed of tiny written words
-434. A figure whose body occasionally becomes a swarm of butterflies
-435. A person with features that match the architectural style around them
-436. A figure who appears to be made of flowing musical notes
-437. A person whose body contains visible clockwork mechanisms
-438. A figure whose form shifts between solid, liquid, and gaseous states
-439. A person who appears as if viewed through multiple lenses simultaneously
-440. A figure with anatomical features from impossible creatures
-441. A person whose body contains portals to other locations
-442. A figure that seems to exist in multiple time periods at once
-443. A person with a talent for the martial and a weapon at the ready
-444. A figure with a love for the opulent and a velvet cloak
-445. A person with a taste for the whimsical and a fanciful tale
-446. A figure with a love for the tranquil and a babbling brook
-447. A person with skin adorned with constellations that shift with the night sky
-448. A figure with eyes that contain visible scenes from other worlds
-449. A person whose hands leave glowing fingerprints that slowly fade
-450. A figure with a third eye that opens only in moonlight
-451. A person who appears blurry, as if constantly in motion
-452. A figure with limbs that morph into different tools when needed
-453. A person whose shadow contains ghostly figures moving independently
-454. A figure with teeth that change shape based on their words
-455. A person who shivers constantly despite wearing layers of furs
-456. A figure whose clothing moves and flows against the wind
-457. A person with a voice that causes visible ripples in the air
-458. A figure with skin that sparkles with embedded crystals
-459. A person whose tears create small flowers where they land
-460. A figure with tattoos that move across their skin of their own accord
-461. A person whose hair changes length and style with their mood
-462. A figure with an exoskeleton visible beneath translucent skin
-463. A person with multiple pupils in each eye, all moving independently
-464. A figure whose presence causes nearby metal to slowly rust
-465. A person with symbiotic creatures living beneath their skin
-466. A figure whose body can fold and unfold like paper
-467. A person with extremities that occasionally become ethereal
-468. A figure surrounded by floating objects that orbit them slowly
-469. A person whose fingers branch into smaller fingers at the tips
-470. A figure with an impossible number of joints in their limbs
-471. A person whose clothing forms from their own shed skin
-472. A figure with features that blend and blur when they're emotional
-473. A person whose blood visibly runs backward through their veins
-474. A figure who leaves behind small duplicates of themselves that dissolve
-475. A person with a mind visibly working behind glass portions of skull
-476. A figure whose body is half-consumed by living shadow
-477. A person with extremities that occasionally ignite with magical flame
-478. A figure whose organs are visible and floating within a transparent torso
-479. A person with multiple faces that rotate based on their emotions
-480. A figure with tribal markings that glow when they speak truths
-481. A person whose form occasionally glitches like a magical illusion
-482. A figure with a body containing visible miniature versions of places they've been
-483. A person with features from different evolutionary paths merged together
-484. A figure who sometimes accidentally phases through solid objects
-485. A person with breath that crystallizes into message-bearing shapes
-486. A figure whose footprints transform into small creatures that scurry away
-487. A person with a translucent skull revealing a luminous brain
-488. A figure whose presence causes nearby plants to rapidly grow
-489. A person with skin that ripples like water when touched
-490. A figure whose words become temporarily visible in the air
-491. A person with a pulsing light visible through their chest
-492. A figure whose body parts can detach and hover nearby
-493. A person surrounded by ghostly images of their possible futures
-494. A figure with a face that appears differently to each observer
-495. A person with flesh composed of tiny moving cogs and gears
-496. A figure with a spectral duplicate that mimics their actions with delay
-497. A person whose body contains visible star systems in motion
-498. A figure who flickers between solid form and colored smoke
-499. A person with features that occasionally revert to childhood appearance
-500. A figure who exists partially in another dimension
-501. A person wrapped in bandages with arcane sigils covering them
-502. A figure with an hourglass embedded in their chest counting down
-503. A person whose joints bend in anatomically impossible ways
-504. A figure with a body that occasionally becomes two-dimensional
-505. A person whose form flickers like a candle flame in gentle wind
-506. A figure with features that migrate across their body
-507. A person who leaves an afterimage when moving suddenly
-508. A figure composed of tightly packed mechanical insects
-509. A person whose skin occasionally becomes transparent revealing complex patterns
-510. A figure whose presence causes small objects to levitate nearby
-511. A person with facial features arranged in impossible configurations
-512. A figure whose body occasionally separates into hovering components
-513. A person with a swarm of tiny lights constantly orbiting them
-514. A figure with limbs that can stretch to impossible lengths
-515. A person whose body contains visible aquatic creatures swimming inside
-516. A figure who appears differently when viewed from different angles
-517. A person with features that loop and reconnect like escher architecture
-518. A figure whose body parts fade into other dimensions at the edges
-519. A person with extremities that occasionally transform into elemental energy
-520. A figure whose presence distorts sound in an unnatural way
-521. A person with a body that seems constantly out of focus
-522. A figure who occasionally splits into multiple transparent copies
-523. A person whose heartbeat is visible as pulses of light through their skin
-524. A figure whose words manifest as small temporary creatures
-525. A person with a body that occasionally develops crystalline growths
-526. A figure whose movements leave trails of fading color
-527. A person whose physical form shifts between different ages
-528. A figure with multiple overlapping outlines around their body
-529. A person who appears slightly ahead of their actual position
-530. A figure whose body incorporates aspects of nearby architecture
-531. A person whose features become indistinct in direct sunlight
-532. A figure who occasionally becomes a living negative image
-533. A person whose form briefly disperses into particles when startled
-534. A figure with a body that contains visible quantum possibilities
-535. A person whose wounds heal with materials other than flesh
-536. A figure whose body occasionally becomes visibly electromagnetic
-537. A person whose skin resembles cracked porcelain held together by golden seams
-538. A figure whose eyes contain miniature versions of whatever they're looking at
-539. A person whose facial features rearrange when they're expressing emotions
-540. A figure with a body that occasionally phases through reality
-541. A person with skin that changes texture based on their surroundings
-542. A figure whose internal organs are visible as glowing outlines
-543. A person who leaves duplicate afterimages when moving quickly
-544. A figure whose body parts can transform into living weapons
-545. A person whose limbs are connected by visible streams of energy
-546. A figure with eyes that project images of their thoughts
-547. A person whose blood flows with visible metallic particles
-548. A figure whose presence causes minor reality fluctuations
-549. A person with clothing that grows from their own body
-550. A figure whose form occasionally separates into component elements
-551. A person with features from multiple species blended together
-552. A figure who speaks with the collective voice of many entities
-553. A person whose body contains a visible ecosystem
-554. A figure with clothing that changes based on nearby observers
-555. A person whose physical form occasionally becomes musical notation
-556. A figure whose presence causes water to form patterns
-557. A person with limbs that can transform into tools or weapons
-558. A figure who appears to be made of constantly shifting smoke
-559. A person whose body is covered in eyes that open and close independently
-560. A figure with a form that occasionally becomes quantum uncertainty
-561. A person whose physical appearance changes with the time of day
-562. A figure whose body contains visible clockwork mechanisms
-563. A person who constantly flickers between multiple possible appearances
-564. A figure with extremities that occasionally become ghostly
-565. A person whose skin reveals different layers of reality when damaged
-566. A figure with a body made of constantly shifting puzzle pieces
-567. A person with an impossible anatomy that somehow functions
-568. A figure whose form is composed of thousands of tiny moving runes
-569. A person whose physical form occasionally becomes liquid
-570. A figure with a body that sometimes reveals the void beneath
-571. A person with features that sometimes exhibit animal characteristics
-572. A figure whose presence causes small objects to orbit them
-573. A person whose body can unfold like origami revealing complex patterns
-574. A figure with skin that occasionally becomes a window to other places
-575. A person with a form that sometimes splits into multiple versions
-576. A figure whose body contains visible star systems
-577. A person whose physical features shift depending on who's viewing them
-578. A figure with a body that occasionally becomes two-dimensional
-579. A person who leaves a trail of fading copies when moving
-580. A figure whose body contains visible microcosms of other realms
-581. A person with limbs that occasionally dissolve into particles
-582. A figure whose features migrate around their body
-583. A person with a form that ripples like water when they move
-584. A figure whose body occasionally exhibits impossible geometry
-585. A person with skin that functions as a living canvas of their memories
-586. A figure whose presence distorts nearby architecture subtly
-587. A person whose form occasionally becomes an illusion revealing their true nature
-588. A figure with a body composed of constantly moving fractals
-589. A person whose features change with each blink of an observer
-590. A figure who exists as a hole in reality shaped like a person
-591. A person whose body parts can detach and act independently
-592. A figure with a form that sometimes reveals machinery underneath
-593. A person whose physical appearance changes with the phases of the moon
-594. A figure whose body contains visible dimensional gateways
-595. A person with extremities that occasionally become pure energy
-596. A figure whose presence causes nearby shadows to move independently
-597. A person with a form that sometimes becomes a living constellation
-598. A figure whose body occasionally reveals the cosmos within
-599. A person who appears different depending on which eye you view them with
-600. A figure with a physical form that occasionally becomes transparent
-601. A person with a swamp witch's weathered face and mossy hair
-602. A figure with the pallid complexion of one recently raised from the dead
-603. A person with aristocratic features and a condescending sneer
-604. A figure with the innocent face and bright eyes of eternal youth
-605. A person with ritual scarification marking them as a tribal outcast
-606. A figure with unnaturally perfect features resembling a living doll
-607. A person with the weathered skin of someone who has lived outdoors for decades
-608. A figure with the distinctive features of foreign royalty
-609. A person with a face masked by elaborate ceremonial paint
-610. A figure with the muscular build of a professional athlete
-611. A person with the stooped posture of a lifetime scholar
-612. A figure with the calloused hands of a master craftsman
-613. A person with the confident stance of a career soldier
-614. A figure with the graceful movements of a trained dancer
-615. A person with the darting eyes of someone constantly on alert
-616. A figure with the distinctive uniform of a specialized profession
-617. A person with the tattoos of a particular criminal organization
-618. A figure with the ceremonial regalia of a high priest
-619. A person with the features distorted by a magical experiment gone wrong
-620. A figure with the characteristic mutations of exposure to wild magic
-621. A person with the distinctive marks of having survived a legendary disease
-622. A figure with the physical signs of being blessed by a specific deity
-623. A person with the unmistakable aura of someone who has died and returned
-624. A figure with the unnatural stillness of something pretending to be human
-625. A person with the visible signs of being partially transformed into something else
-626. A figure with the ritualistic body modifications of an ancient cult
-627. A person with the distinctive gemstone eyes of a rare lineage
-628. A figure with the physical characteristics of being born during a celestial event
-629. A person with the subtle indicators of being much older than they appear
-630. A figure with the uncanny resemblance to a historical figure
-631. A person with the visible signs of having made a pact with otherworldly beings
-632. A figure with the distinctive appearance of being from a lost civilization
-633. A person with the physical traits of having survived in an extreme environment
-634. A figure with the unnaturally symmetric features of magical creation
-635. A person with the distinctive look of someone who has traveled between planes
-636. A figure with the physical signs of having absorbed magical energy
-637. A person with the characteristic appearance of being partially fae
-638. A figure with the unmistakable presence of royalty in disguise
-639. A person with the distinctive look of someone carrying an ancient curse
-640. A figure with the physical traits of having been raised by non-humanoids
-641. A person with the characteristic appearance of a specific secret society
-642. A figure with the unmistakable signs of being a vessel for something else
-643. A person with the distinctive modifications required for a specialized profession
-644. A figure with the physical traits of being descended from legendary heroes
-645. A person with the unmistakable appearance of having survived magical petrification
-646. A figure with the characteristic markers of having communed with the dead
-647. A person with the distinctive look of someone from a nomadic desert tribe
-648. A figure with the physical indicators of being born during a rare arcane convergence
-649. A person with the unmistakable traits of being partially of elemental origin
-650. A figure with the distinctive physical characteristics of being blessed by nature
-651. A person with the trademark appearance of a particular magical academy
-652. A figure with the unmistakable look of having been altered by a wish spell
-653. A person with the physical signs of having been touched by divine power
-654. A figure with the characteristic appearance of someone who can see through illusions
-655. A person with the distinctive traits of being born under a prophesied star
-656. A figure with the unmistakable signs of having survived possession
-657. A person with the physical characteristics of having an unusual ancestry
-658. A figure with the distinctive appearance of someone from a secretive mountain clan
-659. A person with the unmistakable look of being able to perceive invisible things
-660. A figure with the physical traits of having survived being lost in the Feywild
-661. A person with the distinctive signs of having made a deal with a devil
-662. A figure with the characteristic appearance of being immune to a specific element
-663. A person with the unmistakable traits of having once been something other than human
-664. A figure with the physical signs of having been blessed by the moon
-665. A person with the distinctive appearance of having an empathic connection to animals
-666. A figure with the unmistakable traits of being descended from giants
-667. A person with the physical characteristics of having been raised in total darkness
-668. A figure with the distinctive signs of being able to speak with the dead
-669. A person with the unmistakable appearance of having cheated death multiple times
-670. A figure with the physical traits of having spent years in an elemental plane
-671. A person with the distinctive look of having been touched by shadowfell
-672. A figure with the characteristic appearance of being able to see the future
-673. A person with the unmistakable signs of having an unusual birthright
-674. A figure with the physical traits of being descended from dragons
-675. A person with the distinctive appearance of having made a sacrifice for power
-676. A figure with the characteristic signs of being haunted by something invisible
-677. A person with the unmistakable look of having witnessed a god
-678. A figure with the physical traits of having survived being lost at sea
-679. A person with the distinctive appearance of being followed by spirits
-680. A figure with the characteristic signs of having undergone a ritual rebirth
-681. A person with the unmistakable traits of being touched by primordial chaos
-682. A figure with the physical indicators of having ancestral memories
-683. A person with the distinctive appearance of being born during an eclipse
-684. A figure with the characteristic signs of having been saved by divine intervention
-685. A person with the unmistakable traits of being resistant to magic
-686. A figure with the physical indicators of having an exceptional destiny
-687. A person with the distinctive appearance of being from an isolated island culture
-688. A figure with the characteristic signs of having lived multiple lives
-689. A person with the unmistakable traits of having natural magical abilities
-690. A figure with the physical indicators of being the last of their kind
-691. A person with the distinctive appearance of being raised by wolves
-692. A figure with the characteristic signs of having survived a legendary catastrophe
-693. A person with the unmistakable traits of being able to see magical auras
-694. A figure with the physical indicators of having royal blood
-695. A person with the distinctive appearance of being marked by prophecy
-696. A figure with the characteristic signs of having made a pact with the sea
-697. A person with the unmistakable traits of being blessed in childbirth
-698. A figure with the physical indicators of having survived exile in the underdark
-699. A person with the distinctive appearance of being guided by ancestors
-700. A figure with the characteristic signs of having overcome a terrible curse
-701. A person with the distinctive presence of a weathered, veteran sailor
-702. A figure with the look of a hardened mercenary who has seen too much
-703. A person with the dignified appearance of a retired military commander
-704. A figure whose face bears the distinctive markings of a tribal storyteller
-705. A person with the unmistakable confidence of a master illusionist
-706. A figure with the precise movements and alert eyes of a professional bodyguard
-707. A person with the particular accent and mannerisms of distant nobility
-708. A figure with the worn hands and focused gaze of a master jeweler
-709. A person whose face shows the characteristic scars of a ritualistic coming-of-age ceremony
-710. A figure with the distinctive gait of someone used to walking in heavy armor
-711. A person with the observant demeanor of a trained spy
-712. A figure with the distinctive appearance of having been altered by wild magic
-713. A person with the characteristic attire of a renowned monster hunter
-714. A figure with the subtle marks indicating they've survived a rare magical disease
-715. A person with the distinctive traits of being raised in a particularly harsh climate
-716. A figure with the particular mannerisms of having been educated in a prestigious arcane academy
-717. A person with the unmistakable bearing of someone who has died and returned
-718. A figure with the physical traits indicating mixed heritage from unusual ancestries
-719. A person with the distinct markings of having survived torture or imprisonment
-720. A figure with the characteristic mutations from exposure to an artifact of great power
-721. A person with the distinctive attire and presence of a cult leader
-722. A figure with the subtle signs of being much older than they appear
-723. A person with the unmistakable mannerisms of being raised by a non-human species
-724. A figure with the distinctive traits of having made a pact with a powerful entity
-725. A person with the physical signs of having survived being lost in the Astral Plane
-726. A figure with the characteristic appearance of someone who can see glimpses of the future
-727. A person with the unmistakable traits of being partially transformed into an elemental being
-728. A figure with the distinctive adaptations necessary for underwater survival
-729. A person with the characteristic appearance of having been blessed by a specific deity
-730. A figure with the unmistakable signs of being the last descendant of a legendary bloodline
-731. A person with the distinctive physical traits of being born during a magical cataclysm
-732. A figure with the characteristic appearance of someone who has traveled through time
-733. A person with the unmistakable signs of having absorbed the powers of a defeated enemy
-734. A figure with the distinctive traits of having survived in the Feywild for many years
-735. A person with the characteristic appearance of being partially possessed
-736. A figure with the unmistakable signs of having cheated their own fate
-737. A person with the distinctive physical traits of being descended from celestials
-738. A figure with the characteristic appearance of someone marked by an ancient prophecy
-739. A person with the unmistakable signs of being able to commune with nature
-740. A figure with the distinctive traits of having undergone extensive magical modification
-741. A person with the characteristic appearance of being haunted by a specific entity
-742. A figure with the unmistakable signs of having made a sacrifice for forbidden knowledge
-743. A person with the distinctive physical traits of being born with an unusual magical gift
-744. A figure with the characteristic appearance of someone who has found immortality
-745. A person with the unmistakable signs of having survived being cursed
-746. A figure with the distinctive traits of having royal blood from a fallen kingdom
-747. A person with the characteristic appearance of being able to perceive invisible creatures
-748. A figure with the unmistakable signs of having been raised by druids
-749. A person with the distinctive physical traits of being touched by shadow magic
-750. A figure with the characteristic appearance of someone who has traveled to other planes
-751. A person with the unmistakable signs of having undergone a magical transformation
-752. A figure with the distinctive traits of being the chosen champion of a deity
-753. A person with the characteristic appearance of being resistant to aging
-754. A figure with the unmistakable signs of having made a deal with death
-755. A person with the distinctive physical traits of being born during a conjunction of planes
-756. A figure with the characteristic appearance of someone who can speak with deceased ancestors
-757. A person with the unmistakable signs of having been experimented on by a mad wizard
-758. A figure with the distinctive traits of being descended from mythical beasts
-759. A person with the characteristic appearance of being able to control a specific element
-760. A figure with the unmistakable signs of having been resurrected multiple times
-761. A person with the distinctive physical traits of being born with prophecy marks
-762. A figure with the characteristic appearance of someone who draws power from nature
-763. A person with the unmistakable signs of having survived exposure to the Far Realm
-764. A figure with the distinctive traits of being partially fae
-765. A person with the characteristic appearance of being able to interact with ghosts
-766. A figure with the unmistakable signs of having an unusual connection to magic
-767. A person with the distinctive physical traits of being descended from an ancient hero
-768. A figure with the characteristic appearance of someone who was raised by constructs
-769. A person with the unmistakable signs of having survived a legendary disaster
-770. A figure with the distinctive traits of being blessed with unusual longevity
-771. A person with the characteristic appearance of being able to see through deception
-772. A figure with the unmistakable signs of having undergone a spiritual awakening
-773. A person with the distinctive physical traits of being born during an arcane storm
-774. A figure with the characteristic appearance of someone who has been touched by divine power
-775. A person with the unmistakable signs of having an extraordinary destiny
-776. A figure with the distinctive traits of being from an isolated monastery
-777. A person with the characteristic appearance of being protected by spirits
-778. A figure with the unmistakable signs of having survived a soul-binding ritual
-779. A person with the distinctive physical traits of being descended from elementals
-780. A figure with the characteristic appearance of someone who can manipulate dreams
-781. A person with the unmistakable signs of having made a sacrifice for their community
-782. A figure with the distinctive traits of being reincarnated from a previous life
-783. A person with the characteristic appearance of being able to sense magical energy
-784. A figure with the unmistakable signs of having survived exile in a harsh environment
-785. A person with the distinctive physical traits of being born during a blood moon
-786. A figure with the characteristic appearance of someone who has found ancient knowledge
-787. A person with the unmistakable signs of having overcome a debilitating curse
-788. A figure with the distinctive traits of being the last member of a secret order
-789. A person with the characteristic appearance of being guided by a mysterious patron
-790. A figure with the unmistakable signs of having mastered forbidden magic
-791. A person with the distinctive physical traits of being born with an animal companion
-792. A figure with the characteristic appearance of someone who has transcended mortality
-793. A person with the unmistakable signs of having survived a magical catastrophe
-794. A figure with the distinctive traits of being descended from legendary warriors
-795. A person with the characteristic appearance of being able to walk between worlds
-796. A figure with the unmistakable signs of having been saved by a miracle
-797. A person with the distinctive physical traits of being touched by celestial power
-798. A figure with the characteristic appearance of someone who can commune with the elements
-799. A person with the unmistakable signs of having undergone a mystical transformation
-800. A figure with the distinctive traits of being chosen by an ancient artifact
-801. A person wearing an elaborate masquerade mask they never remove
-802. A figure with a bald head covered in mystic tattoos that shift positions
-803. A person with skin like polished onyx that reflects light unnaturally
-804. A figure wearing ceremonial scars that form a map to a legendary location
-805. A person with eyes that change color based on the direction they're looking
-806. A figure wearing elaborate mechanical prosthetics with magical enhancements
-807. A person with a transparent chest revealing a glowing crystal where their heart should be
-808. A figure whose shadow occasionally performs different actions than they do
-809. A person with ritualistic brands marking them as a vessel for an ancient spirit
-810. A figure with multiple sets of smaller arms beneath their main arms
-811. A person with skin that constantly shifts through different natural patterns
-812. A figure with elongated limbs and unnaturally fluid movements
-813. A person with gemstones embedded at key points along their spine
-814. A figure wearing living armor made from a symbiotic creature
-815. A person with small antennae that twitch in the direction of magical energy
-816. A figure with a face divided perfectly between two different appearances
-817. A person with clockwork components visible through transparent sections of skin
-818. A figure whose clothing is made from the pages of forbidden texts
-819. A person with iridescent scales in patterns denoting noble draconic heritage
-820. A figure with a voice that seems to come from everywhere except their mouth
-821. A person with a miniature familiar that lives in a specially designed compartment
-822. A figure whose ceremonial dress incorporates bones from a legendary beast
-823. A person with a mechanical eye that occasionally projects images they've seen
-824. A figure wearing a cloak made from thousands of tiny preserved butterflies
-825. A person with six fingers on each hand, all bearing significant rings
-826. A figure whose braided hair seems to move with a mind of its own
-827. A person with a pocket watch embedded in their palm that never needs winding
-828. A figure wearing tailored garments made from materials not found in this realm
-829. A person with a perpetual mist that surrounds them regardless of environment
-830. A figure with tribal scarification that glows faintly in darkness
-831. A person with a specially crafted container holding a preserved organ
-832. A figure whose elaborate headdress contains components that serve as spell focuses
-833. A person with a neck elongated by ceremonial rings denoting their status
-834. A figure wearing a formal uniform from a military order thought long extinct
-835. A person whose elaborate facial markings change pattern with the lunar cycle
-836. A figure with a walking staff containing a still-living creature preserved in amber
-837. A person covered in ritualistic piercings connected by fine chains of rare metals
-838. A figure with ceremonial pauldrons crafted from the skull of a mythical beast
-839. A person whose multi-layered robes each represent a different school of magic
-840. A figure whose ornamental weapon is actually a disguised magical artifact
-841. A person with a web of fine scars forming constellations across their face
-842. A figure with a permanently affixed mask that changes its expression independently
-843. A person whose elaborate body paint shifts colors based on nearby magical auras
-844. A figure wearing a veil of material so fine it's nearly invisible yet never tears
-845. A person with animated tattoos that move across their skin telling an endless story
-846. A figure with ceremonial burns in the pattern of their deity's holy symbol
-847. A person whose elaborate hairstyle contains hidden compartments for tools or potions
-848. A figure with skin that has been ritualistically infused with precious metals
-849. A person with a mechanical harness that helps support an old battle injury
-850. A figure whose ceremonial garb incorporates relics from multiple fallen civilizations
-851. A person whose elaborate eye makeup extends beyond their face in mystical patterns
-852. A figure with a perpetual aurora-like glow surrounding them at all times
-853. A person with a skeletal framework visible beneath translucent portions of skin
-854. A figure whose elaborate neck piece contains preserved specimens from their travels
-855. A person with ritualistic scarification that forms a complete magical circle
-856. A figure with a specially designed pack containing a miniature ecosystem
-857. A person whose elaborate braided beard contains small trinkets from their conquests
-858. A figure with a personal weather system that follows them everywhere
-859. A person whose elaborate ear modifications allow them to hear normally imperceptible sounds
-860. A figure with a specially crafted pendant containing a fragment of a legendary artifact
-861. A person with ceremonial armor made from the scales of a creature they defeated
-862. A figure whose elaborate facial piercing serves as a magical focus
-863. A person with hands stained permanently from working with rare alchemical ingredients
-864. A figure whose elaborate belt is actually a disguised familiar or companion
-865. A person with a specialized breathing apparatus for surviving in multiple environments
-866. A figure with a ceremonial cape that responds to their emotional state
-867. A person whose elaborate boots leave tracks that fade away after a specific time
-868. A figure with a specially modified eyepatch covering a magical replacement eye
-869. A person with elaborate nail extensions that double as specialized tools
-870. A figure wearing regalia indicating leadership of a secret society
-871. A person whose elaborate ceremonial dagger can never be separated from them
-872. A figure with specially designed gloves that enhance their magical abilities
-873. A person with a ritualistic head covering that hides an unusual physical feature
-874. A figure whose elaborate walking staff contains specimens from every place they've visited
-875. A person with a symbiotic plant that grows along their spine providing benefits
-876. A figure wearing elaborate robes containing hidden pockets in impossible places
-877. A person with a specially modified voice box allowing them to mimic any sound
-878. A figure whose elaborate wrist guards contain hidden weapons or tools
-879. A person with ritualistic markings that glow when they cast certain spells
-880. A figure with a specially designed container holding a piece of their soul
-881. A person whose elaborate headdress serves as a home for a small companion creature
-882. A figure with ceremonial armor that shifts to accommodate their fighting style
-883. A person with a specially designed face paint that changes based on ambient magic
-884. A figure whose elaborate neck tattoo extends down their body in a continuous pattern
-885. A person with ritualistic modifications to their feet allowing unusual movement
-886. A figure with a specially crafted breathing mask filtering toxins or enhancing abilities
-887. A person whose elaborate jewelry contains components of a disassembled artifact
-888. A figure with ceremonial braids containing tokens from significant moments in their life
-889. A person with a specially designed cloak that adapts to environmental conditions
-890. A figure whose elaborate facial structure has been ritualistically modified
-891. A person with ceremonial brands marking them as a survivor of a legendary event
-892. A figure with a specially crafted focusing lens always worn over one eye
-893. A person whose elaborate back piece tells the story of their lineage
-894. A figure with ceremonial armor inlaid with runes of protection
-895. A person with a specially designed implement allowing them to commune with specific entities
-896. A figure whose elaborate finger jewelry connects to form a complex magical circuit
-897. A person with ritualistic scars marking them as having survived a legendary trial
-898. A figure with a specially crafted container holding a fragment of an extradimensional space
-899. A person whose elaborate ceremonial attire marks them as a high priest of a forgotten deity
-900. A figure with a specialized harness containing multiple spell components ready for use
-901. A person with an aged face that bears the wrinkles of a thousand smiles
-902. A figure with eyes so pale they appear almost white, yet they see perfectly
-903. A person whose weathered hands tell stories of decades of hard work
-904. A figure with a military bearing and the distant gaze of someone who's seen war
-905. A person with the sun-darkened skin and squint lines of a lifetime sailor
-906. A figure with the delicate, precise hands of a master artisan
-907. A person with a face bearing the symmetrical scars of a ritual coming-of-age ceremony
-908. A figure with the distinctive posture of someone trained from childhood in a martial art
-909. A person with unnaturally vibrant eyes that seem to catch all available light
-910. A figure with the graceful movements of a lifelong dancer
-911. A person with skin bearing the marks of a disease survived in childhood
-912. A figure with the stoic expression of someone who has endured great hardship
-913. A person with the precise, careful movements of someone trained to handle dangerous materials
-914. A figure with a face whose laugh lines and frown lines tell contradicting stories
-915. A person with hands permanently stained from years working with specific materials
-916. A figure with the characteristic facial tattoos of a nomadic desert tribe
-917. A person with the reserved demeanor of someone raised in monastic silence
-918. A figure with the distinctive accent and mannerisms of distant mountainfolk
-919. A person with eyes that never seem to blink
-920. A figure with the distinctive gait of someone who grew up in a place with different gravity
-921. A person with the perpetual slight tremor of someone who has witnessed horrific magic
-922. A figure with the telltale signs of having survived extreme cold
-923. A person with the distinctive nervous habits of someone who lived through a siege
-924. A figure with the careful, precise speech of someone who once misused powerful words
-925. A person with the unmistakable scars of having survived a legendary monster's attack
-926. A figure with the distinctive physical characteristics of being raised by wolves
-927. A person with the unconscious mannerisms of nobility trying to pass as common
-928. A figure with the subtle physical traits of having distant non-human ancestry
-929. A person with the distinctive outfit of a specialized profession rarely seen in this region
-930. A figure with the characteristic physical traits of someone who has spent years underground
-931. A person with the unmistakable bearing of someone who has commanded armies
-932. A figure with the distinctive speech pattern of a forgotten dialect
-933. A person with the characteristic physical adaptations of living in extreme heat
-934. A figure with the unmistakable signs of having survived a magical transformation
-935. A person with the distinctive appearance of someone who has been touched by fey
-936. A figure with the characteristic mannerisms of someone raised in a different era
-937. A person with the unmistakable physical traits of being descended from an ancient bloodline
-938. A figure with the distinctive signs of having survived being lost in a magical wasteland
-939. A person with the characteristic bearing of someone who has counseled kings
-940. A figure with the unmistakable physical traits of having once been petrified
-941. A person with the distinctive voice of someone who has inhaled unusual alchemical fumes
-942. A figure with the characteristic appearance of being born during a celestial convergence
-943. A person with the unmistakable signs of having made a deal with an extraplanar entity
-944. A figure with the distinctive features of someone who has died and returned
-945. A person with the characteristic traits of having been raised by a magical creature
-946. A figure with the unmistakable physical signs of having survived a legendary plague
-947. A person with the distinctive markings of being chosen by an ancient prophecy
-948. A figure with the characteristic appearance of being from a civilization lost to time
-949. A person with the unmistakable signs of having been changed by wild magic
-950. A figure with the distinctive physical traits of being descended from legendary heroes
-951. A person with the characteristic appearance of being able to see invisible things
-952. A figure with the unmistakable signs of having survived in the Feywild
-953. A person with the distinctive physical traits of being born under a rare celestial event
-954. A figure with the characteristic appearance of someone who has been blessed by nature
-955. A person with the unmistakable signs of having communed with powerful entities
-956. A figure with the distinctive physical traits of being descended from elemental beings
-957. A person with the characteristic appearance of someone who was raised by constructs
-958. A figure with the unmistakable signs of having absorbed power from an ancient source
-959. A person with the distinctive physical traits of being born during a planar conjunction
-960. A figure with the characteristic appearance of someone who can perceive abstract concepts
-961. A person with the unmistakable signs of having undergone a magical awakening
-962. A figure with the distinctive physical traits of being touched by shadow
-963. A person with the characteristic appearance of someone who has traveled through time
-964. A figure with the unmistakable signs of having been part of a great magical working
-965. A person with the distinctive physical traits of being blessed with unusual longevity
-966. A figure with the characteristic appearance of someone who is haunted by spirits
-967. A person with the unmistakable signs of having survived exposure to raw chaos
-968. A figure with the distinctive physical traits of being born with a twin who never separated
-969. A person with the characteristic appearance of someone who can speak with the dead
-970. A figure with the unmistakable signs of having made a sacrifice for power
-971. A person with the distinctive physical traits of being descended from divine beings
-972. A figure with the characteristic appearance of someone who has mastered forbidden magic
-973. A person with the unmistakable signs of having survived a soul-binding ritual
-974. A figure with the distinctive physical traits of being born during an arcane storm
-975. A person with the characteristic appearance of someone who draws power from nature
-976. A figure with the unmistakable signs of having cheated their own fate
-977. A person with the distinctive physical traits of being the last of their bloodline
-978. A figure with the characteristic appearance of someone who can perceive multiple timelines
-979. A person with the unmistakable signs of having undergone a spiritual transformation
-980. A figure with the distinctive physical traits of being born with a prophesied destiny
-981. A person with the characteristic appearance of someone who has traveled between worlds
-982. A figure with the unmistakable signs of having survived being lost in the Astral Plane
-983. A person with the distinctive physical traits of being partially transformed into an elemental
-984. A figure with the characteristic appearance of someone who was raised by a legendary creature
-985. A person with the unmistakable signs of having been marked by an ancient artifact
-986. A figure with the distinctive physical traits of being descended from an ancient hero
-987. A person with the characteristic appearance of someone who has mastered time manipulation
-988. A figure with the unmistakable signs of having been cursed and recovered
-989. A person with the distinctive physical traits of being born during a celestial event
-990. A figure with the characteristic appearance of someone who has communed with primordial forces
-991. A person with the unmistakable signs of having survived exposure to the Far Realm
-992. A figure with the distinctive physical traits of being touched by divine power
-993. A person with the characteristic appearance of someone who has died multiple times
-994. A figure with the unmistakable signs of having made a pact with an ancient being
-995. A person with the distinctive physical traits of being born with an unusual magical gift
-996. A figure with the characteristic appearance of someone who has transcended mortality
-997. A person with the unmistakable signs of having survived a magical catastrophe
-998. A figure with the distinctive physical traits of being descended from legendary creatures
-999. A person with the characteristic appearance of being able to walk between worlds
-1000. A figure with the unmistakable aura of someone with an extraordinary destiny
+A scarred old warrior with a permanent scowl
+A mysterious cloaked figure hiding their face
+A cheerful young merchant with nimble fingers
+A person with luscious, carbon-black hair in a long braid
+A figure with a face only a mother could love
+A person with a muscular yet lanky build
+A thin, delicate figure with porcelain-like skin
+Someone missing several teeth but smiling broadly
+A person with large bushy eyebrows that seem to have a life of their own
+A figure bearing a distinctive military tattoo on their forearm
+A tall person with piercing green eyes and sun-kissed skin
+A short, rotund individual with a jolly laugh and rosy cheeks
+An elderly person with wise blue eyes and silver hair
+A muscular warrior with a prominent scar across their cheek
+A slender elf with delicate features and long, flowing hair
+A dwarf with a thick beard and a twinkle in their eye
+A person with an intricate tattoo covering one side of their face
+A figure cloaked in shadows, with only their bright eyes visible
+A youth with freckles and an infectious smile
+A noble with impeccable posture and a commanding presence
+A half-orc with mismatched eyes and tribal scarification
+A tiefling with spiraling horns and skin the color of sunrise
+A dragonborn with iridescent scales and smoke curling from their nostrils
+A gnome with oil-stained hands and goggles perched on their forehead
+A halfling with a walking staff twice their height and muddy feet
+A half-elf with pointed ears adorned with numerous piercings
+A kenku with glossy black feathers and trinkets woven into their plumage
+A lizardfolk with a crest of vibrant spines and reptilian yellow eyes
+A tabaxi with spotted fur and jewelry jingling with every movement
+A firbolg with moss growing in their beard and flowers in their hair
+A person with heterochromia - one eye blue, one eye amber
+A figure with albinism and ghostly white hair
+A person wearing an ornate mask they refuse to remove
+A figure with extensive ritual scarification telling their life story
+A person with a patchwork of different skin tones from experimental healing
+A person with a scar running from forehead to chin
+An individual with piercing eyes that never blink
+A figure carrying an unusual staff topped with a strange crystal
+A person wearing clothing from a bygone era
+An individual with an elaborate hairstyle that must take hours to maintain
+A figure with a wooden prosthetic limb carved with runes
+A person with several missing fingers on their left hand
+A figure with unnaturally pale skin and dark circles under their eyes
+A person whose body is covered in religious symbols
+An individual with long unkempt hair covering most of their face
+A figure wearing a necklace made of teeth or claws
+A person with several facial piercings that clink when they move
+A figure wearing armor that seems too big for their frame
+A person with oddly colored eyes that seem to glow in dim light
+An individual with ceremonial face paint in bold patterns
+A person whose hair changes color depending on the light
+A figure whose skin has a faint metallic sheen
+A person with fingernails painted with tiny detailed scenes
+A figure whose footsteps make no sound when they walk
+A person with a limb that seems slightly longer than its counterpart
+An individual who constantly shivers despite the temperature
+A figure with a voice that seems to come from somewhere else
+A person with a single streak of white in otherwise dark hair
+A figure with a perpetual look of surprise on their face
+A person whose clothing is adorned with hundreds of tiny bells
+An individual with perfectly symmetrical features
+A figure wearing gloves regardless of weather or situation
+A person with skin so translucent their veins are clearly visible
+A figure who carries a small cage with something unseen inside
+A person whose pupils are shaped like stars or crescents
+An individual with an unnaturally wide smile
+A figure wearing a hat with a brim so wide it hides their face
+A person with ritualistic burn marks on their palms
+A figure whose shadow sometimes moves independently
+A person with small horns or antlers partially hidden by hair
+An individual who smells strongly of exotic herbs and spices
+A figure wearing clothes made from unusual materials
+A person whose skin is covered in a fine layer of scales
+A figure with an eye patch decorated with mystical symbols
+A person with a pocket watch that never leaves their hand
+An individual whose laugh sounds like musical notes
+A figure with a birthmark shaped like a known constellation
+A person who walks with an exaggerated limp
+A figure whose hair moves as if underwater
+A person with a small animal always perched on their shoulder
+An individual who speaks through a strange mechanical device
+A figure whose clothing changes color with their mood
+A person with bandaged hands and mysterious stains
+A figure with unnaturally sharp canine teeth
+A person who carries a mirror and constantly checks their reflection
+An individual with elaborate body modifications
+A figure whose eyes reflect light like a cat's
+A person who always stands perfectly still when not moving
+A figure wearing a circlet or crown of unusual design
+A person with a distinctive accent from a far-off land
+An individual who constantly fidgets with a specific object
+A figure with tattooed symbols around their eyes
+A person whose skin glitters subtly in direct light
+A figure wearing armor made from an unknown creature's hide
+A person with an animated tattoo that shifts positions
+An individual whose breath is visible even on warm days
+A figure who carries a book bound in strange material
+A person with unusually large or small hands
+A figure who speaks to inanimate objects as if they're alive
+A person with ritual scars in geometric patterns
+A warforged with glowing runes etched into their metal frame
+A changeling caught mid-shift with features not quite settled
+A githyanki with yellowish skin and an ornate silver sword
+A triton with scales that shimmer like the ocean depths
+A yuan-ti with patches of scales and slitted pupils
+A goliath with tribal tattoos and stone-like skin
+A genasi with hair that moves like flames (or water/leaves/smoke)
+A kalashtar with eyes that seem to look into multiple planes at once
+A tortle with an intricately carved shell and weathered face
+A minotaur with polished horns adorned with golden rings
+A person with a hunchback hidden beneath a voluminous cloak
+A figure with six fingers on each hand
+A person with tribal tattoos that glow faintly at night
+An individual whose tears leave gold flecks on their cheeks
+A figure with prehensile hair that moves on its own
+A person with skin that changes texture depending on emotions
+An individual whose face is partially covered by living vines
+A figure whose joints bend in unnatural directions
+A person whose voice causes small objects to vibrate
+An individual with patterns of freckles forming words in an ancient language
+A figure with a third eye hidden beneath a headband
+A person covered in ritual piercings connected by thin chains
+An individual with fingertips that glow like embers
+A figure whose blood visibly runs gold or silver through their veins
+A person who carries a lantern containing something other than flame
+An individual with gill-like slits on their neck
+A figure whose face appears different to each person who sees them
+A person with gemstones embedded in their skin
+An individual whose footsteps leave brief traces of elemental energy
+A figure with a voice that echoes even in open spaces
+A person whose shadow is shaped differently than their body
+An individual who floats slightly above the ground when excited
+A figure whose skin displays the constellations of the night sky
+A person with ritualistic brands marking them as chosen
+An individual whose laughter causes plants to briefly bloom
+A figure with eyes that reflect scenes they've witnessed
+A person whose body temperature is noticeably different from normal
+An individual who speaks with multiple voices simultaneously
+A figure with a crystalline growth protruding from one shoulder
+A person whose fingers elongate when they reach for something
+An individual who appears slightly transparent in certain light
+A figure who carries a container of mysterious liquid they occasionally drink
+A person with ornate clockwork parts visible through torn clothing
+An individual with bone structures visible beneath their skin
+A figure whose presence causes water to ripple
+A person with a heartbeat audible from several feet away
+An individual whose hair turns into feathers near the ends
+A figure with living insects or small creatures as jewelry
+A person whose sleeves hide numerous concealed weapons
+A shifter with animalistic features becoming more pronounced when agitated
+A satyr with curved horns and hooves that click on stone floors
+A centaur with a bow across their back and wildflowers braided into their tail
+A harpy with beautiful plumage and a haunting gaze
+An aasimar with a subtle glow emanating from beneath their skin
+An individual wearing elaborate ceremonial armor rarely seen in this region
+A figure with weather patterns tattooed on their body that change with actual weather
+A person who carries a sentient weapon that whispers audibly
+An individual with clothing made of materials that shouldn't exist together
+A figure with an orbiting familiar that never strays far
+A person with multiple mouths located in unusual places
+An individual whose age seems to fluctuate throughout conversation
+A figure wearing a helm that completely obscures their features
+A person who leaves a trail of small glowing footprints that fade quickly
+An individual whose voice can be heard in the listener's mind rather than ears
+A figure whose body parts seem stitched together
+A person wearing armor made from dragon scales
+An individual with eyes that change color based on the time of day
+A figure surrounded by a haze that distorts vision slightly
+A person with skin etched with a complete runic alphabet
+An individual who carries a container of souls or spirits
+A figure with animal appendages hidden beneath clothing
+A person whose touch briefly changes the color of objects
+An individual who casts two shadows in any light
+A figure who breathes out colored smoke or mist
+A person with a pocket dimension visible through their open mouth
+An individual with ritualistic sacrifice scars across their torso
+A figure whose presence causes nearby fires to dance or change color
+A person covered in a fine layer of ash that never fully washes away
+An individual whose eyes contain moving scenes like living paintings
+A figure with membranes between their fingers like webbing
+A person who speaks in rhymes or riddles involuntarily
+An individual whose body emits a subtle harmonic hum
+A figure whose face shifts subtly to mimic those they speak with
+A person with an exoskeleton partially visible through their skin
+An individual who carries a jar containing a preserved organ
+A figure with symmetrical burns in the pattern of a magical seal
+A person whose appearance subtly changes with the phases of the moon
+An individual with impossible geometry in their physical form
+A figure whose clothing is made from pages of forbidden texts
+A person with extremities that occasionally phase through solid objects
+An individual with eyes that reflect what they're thinking
+A rogue with a sly grin and mischievous eyes
+A mage with an air of mystery and intelligent, calculating eyes
+A bard with a charming smile and a lute slung over their shoulder
+A priest with kind eyes and a gentle demeanor
+A sailor with weathered skin and a gold hoop earring
+A knight in shining armor, with a strong jaw and noble brow
+A merchant with a shrewd look and a quick, assessing glance
+A peasant with rough hands and a hopeful expression
+A traveler with a wide-brimmed hat and a cloak dusted from the road
+A child with wide, curious eyes and a mop of unruly hair
+A figure whose tears crystallize into gemstones when they fall
+A person who carries an impossible number of items on their person
+An individual with a familiar that takes the form of an inanimate object
+A figure whose body parts can detach and function independently
+A person with symbiotic creatures living on their skin
+An individual who appears in monochrome, as if drained of color
+A figure whose facial features rearrange when they're not observed
+A person with an extra set of translucent arms
+An individual whose body occasionally glitches like a magical illusion
+A figure with multiple faces visible from different angles
+A person who hovers slightly above the ground instead of walking
+An individual with body art that predicts future events
+A figure whose clothing is made of elemental energy
+A person with a portion of their body turned to stone
+An individual who changes biological sex with the rising and setting sun
+A figure whose words appear as glowing text when they speak
+A person followed by musical notes that correspond to their emotions
+An individual whose body parts are connected by visible streams of energy
+A figure with a cloud perpetually hovering above their head
+A person who casts colored light from their eyes when using magic
+An individual whose skin occasionally becomes translucent
+A figure with wounds that leak light instead of blood
+A person whose reflection acts independently in mirrors
+An individual with features from multiple species blended together
+A figure who speaks with the collective voice of their ancestors
+A person whose aura is visible to everyone, not just those with magical sight
+An individual with limbs made of different materials than their torso
+A figure whose age reverses under certain conditions
+A person whose hair turns into living creatures when cut
+An individual whose clothing is alive and changes shape
+A figure with a preserved ancestral appendage they consult for guidance
+A person whose emotions manifest as visible spectral shapes
+An individual whose body contains a visible miniature galaxy
+A figure with clothing from a civilization long extinct
+A person whose internal organs are occasionally visible through transparent skin
+An individual with a parasitic twin partially emerged
+A figure with anatomically impossible features that somehow function
+A person whose dreams physically manifest while they sleep
+An individual composed partially of swarm creatures
+A figure with a clock face embedded in their chest showing an impossible time
+A person with a pocket dimension visible through a wound
+An individual whose presence distorts reality in subtle ways
+A figure whose body is composed of tiny interlocking mechanical parts
+A person with multiple personalities that physically manifest when active
+An individual who can unfold parts of themselves like origami
+A figure with a portable hole located somewhere on their body
+A person with glass or crystal body parts that contain moving scenes
+An individual who leaves duplicate afterimages when moving quickly
+A figure with an aura that affects the physical world around them
+A person with a figure of an archer with a bow ready to fire
+An intelligent ooze that has formed into a humanoid shape
+A figure with an aura of power and eyes that seem to see through you
+A person with an exotic accent and colorful attire from a distant land
+A scholar with round spectacles and an absent-minded expression
+A craftsman with calloused hands and a look of concentration
+A hunter with sharp eyes and a camouflaged cloak
+A figure with a hooded cloak and a mysterious air
+A person with laughter lines around their eyes and a warm smile
+A guard with a stern face and a vigilant gaze
+A healer with a soothing voice and a gentle touch
+A figure with a regal bearing and a crown of intricate design
+A person with a wild mane of hair and a fierce expression
+A figure with a serene face and a peaceful aura
+A person with a boisterous laugh and a larger-than-life personality
+A figure with a gaunt face and haunted eyes
+A person with a playful smirk and a twinkle in their eye
+A figure with a stoic expression and a battle-hardened look
+A person with a scholarly air and a pile of books at their side
+A figure with a gentle face and a motherly smile
+A person with a rugged appearance and a weather-beaten hat
+A figure with a flamboyant outfit and a confident stride
+A person with a somber expression and a black mourning band
+A figure with a lean build and a predatory gaze
+A person with a soft voice and a shy demeanor
+A figure with an athletic build and a competitive glint in their eye
+A person with a bohemian style and a carefree attitude
+A figure with a commanding voice and a presence that fills the room
+A person with a melodic voice and a love for storytelling
+A figure with a love for finery and a collection of jewels
+A person with a passion for adventure and a map in hand
+A figure with a love for nature and a garland of flowers in their hair
+A person with a penchant for the arcane and a staff of power
+A figure with a love for the sea and a ship's wheel pendant
+A person with a fondness for animals and a pet at their side
+A figure with a love for the arts and a paint-stained apron
+A person with a taste for luxury and a silk robe
+A figure with a love for the simple life and a straw hat
+A person with a talent for healing and a pouch of herbs
+A figure with a love for music and a song on their lips
+A person with a knack for invention and a tool belt
+A figure with a love for the stars and a telescope nearby
+A person with a gift for languages and a book of phrases
+A figure with a love for the written word and a quill in hand
+A person with a talent for cooking and a delicious aroma following them
+A figure with a love for dance and a pair of worn shoes
+A person with a flair for drama and a dramatic cloak
+A figure with a love for the wild and a compass around their neck
+A person with a talent for crafting and a piece of their work displayed
+A figure with a love for the mystical and a crystal ball
+A monastic figure with a shaved head and simple robes
+A duelist with a distinguished mustache and formal attire
+A nomad with wind-chapped skin and layers of practical clothing
+A towering figure with braided hair and ritual face paint
+A diminutive person with a walking cane and spectacles
+A heavily tattooed individual with tribal markings from head to toe
+A person wearing a traditional mask used in cultural ceremonies
+A figure with distinctive blue woad paint in spiraling patterns
+A person with a wooden leg carved to resemble a lion's paw
+A figure wearing the ceremonial garb of a royal executioner
+A person with elaborate makeup denoting high status
+A figure whose clothing is covered in small mirrors
+A person with a decorative metal faceplate concealing an old injury
+A figure wearing the unmistakable uniform of an elite military unit
+A person with a long pipe that produces smoke in unusual colors
+A figure completely wrapped in bandages like a mummy
+A person with an impressively long beard braided with small totems
+A figure wearing a crown of candles that perpetually burn
+A person with a hunched posture who constantly mumbles calculations
+A figure with fingernails grown and shaped into natural weapons
+A person wearing a cape made from hundreds of small cloth patches
+A figure whose skin is decorated with temporary ritual markings
+A person with a mechanical eye that whirs when focusing
+A figure wearing the traditional garb of a foreign dignitary
+A person with a neck elongated by ritual metal rings
+A figure with a ceremonial headdress of impressive proportions
+A person with elaborate scarification denoting tribal status
+A figure with an amulet that seems to move on its own
+A person with a split-colored face paint dividing their features
+A figure wearing gloves with small bells attached to each finger
+A person whose clothing is covered in written prayers and blessings
+A figure with a walking staff topped with a carved animal head
+A person with ritual piercings connected by fine golden chains
+A figure wearing an elaborate wig styled in an ancient fashion
+A person with one arm replaced by a magical prosthetic
+A figure whose eyes are covered by a blindfold yet moves with certainty
+A person with an unusually tall hat designating their profession
+A figure wearing boots that leave unusual tracks behind
+A person with a necklace of tokens from those they've helped
+A figure whose cloak seems to be made from shadow itself
+A person with an elaborate tattoo that appears to change daily
+A figure with a staff that contains a trapped elemental
+A person wearing a backpack that occasionally moves on its own
+A figure with perfect posture and a dancer's grace
+A person whose hands are stained from years of working with dyes
+A figure with a hood lined with small charms and trinkets
+A person with intricate henna patterns covering their hands and feet.
+A figure wearing boots that seem too large yet walk with silence
+A person with a book chained to their belt that whispers
+A figure whose robes change color depending on the conversation
+A person with a taste for the exotic and a collection of artifacts
+A figure with a love for the cold and a fur-lined cloak
+A person with a talent for disguise and a changeable appearance
+A figure with a love for the heat and a fan in hand
+A person with a gift for storytelling and an eager audience
+A figure with a love for the dark and a lantern held high
+A person with a flair for the theatrical and a mask
+A figure with a love for the light and a radiant smile
+A person with a talent for negotiation and a persuasive tone
+A figure with a love for the festive and a colorful outfit
+A stitched-together flesh golem with mismatched body parts
+A living construct made of animated clockwork and gears
+A being of pure elemental energy barely contained in humanoid form
+A person with skin that functions as a map to an unknown location
+A figure with a body composed of thousands of tiny insects working as one
+A person whose form occasionally dissolves into mist
+A figure with mushrooms and fungi growing from their body
+A person who appears to be made entirely of stained glass
+A figure with body parts that can stretch to impossible lengths
+A person with a mouth that opens wider than physically possible
+A figure whose body sometimes clips through reality like a glitch
+A person with limbs that can detach and reattach at will
+A figure made of constantly flowing and reforming liquid
+A person whose body contains visible celestial bodies
+A figure with features that blur and shift when looked at directly
+A person with skin that peels away revealing light underneath
+A figure whose body parts can swap positions spontaneously
+A person who appears to be a living shadow with glowing eyes
+A figure with multiple faces arranged around their head
+A person whose body sometimes becomes two-dimensional
+A figure that appears to be a walking doorway to another place
+A person whose form occasionally splits into multiple copies
+A figure with a body made of interlocking geometric shapes
+A person whose features are constantly in motion like rippling water
+A figure with impossible anatomy that defies physical laws
+A person whose body contains visible miniature versions of themselves
+A figure that appears differently depending on which eye you use to look
+A person who leaves parts of themselves behind that dissolve slowly
+A figure whose body contains windows showing different locations
+A person whose form occasionally reveals the cosmos within
+A figure with multiple overlapping versions of themselves slightly out of sync
+A person whose body parts operate independently of each other
+A figure who appears to be a hole in reality shaped like a person
+A person with a taste for the refined and a glass of wine
+A figure with a love for the quiet and a secluded spot
+A person with a talent for strategy and a game of chess
+A figure with a love for the hustle and bustle and a busy market stall
+A person with a gift for empathy and a comforting presence
+A figure with a love for the challenge and a mountain climbed
+A person with a flair for the unique and an unusual accessory
+A figure with a love for the ancient and a relic
+A person with a talent for leadership and a group of followers
+A figure with a love for the new and a gadget
+A person with a taste for the adventurous and a daring feat
+A figure with a love for the serene and a meditative pose
+A person with a talent for magic and a spell being cast
+A figure with a love for the vibrant and a bright scarf
+A person with a gift for the musical and an instrument
+A figure with a love for the mysterious and a secret
+A person with a flair for the extravagant and a flashy ring
+A figure with a love for the homely and a warm hearth
+A doppelganger unable to fully commit to one appearance
+A person whose body is halfway transformed into an animal
+A figure with anatomy reminiscent of deep sea creatures
+A person whose bones are visible and glowing beneath their skin
+A figure with plant life growing from their body like a living garden
+A person who appears to be a moving painting
+A figure with body parts that fade into smoke at the edges
+A person with visible ley lines running across their skin
+A figure composed of animated origami paper
+A person whose every movement leaves trailing copies like echoes
+A figure with body parts that occasionally become transparent
+A person whose form seems to be constantly recreating itself
+A figure that appears to be multiple people merged together
+A person whose body contains miniature weather systems
+A figure whose appearance changes based on the observer's fears
+A person who occasionally splits into multiple identical copies
+A figure whose body has distinct boundaries like puzzle pieces
+A person with sections of their form existing in different planes
+A figure whose presence warps the appearance of objects around them
+A person whose body parts can be removed and function independently
+A figure that appears to be a walking constellation
+A person whose form is composed of tiny written words
+A figure whose body occasionally becomes a swarm of butterflies
+A person with features that match the architectural style around them
+A figure who appears to be made of flowing musical notes
+A person whose body contains visible clockwork mechanisms
+A figure whose form shifts between solid, liquid, and gaseous states
+A person who appears as if viewed through multiple lenses simultaneously
+A figure with anatomical features from impossible creatures
+A person whose body contains portals to other locations
+A figure that seems to exist in multiple time periods at once
+A person with a talent for the martial and a weapon at the ready
+A figure with a love for the opulent and a velvet cloak
+A person with a taste for the whimsical and a fanciful tale
+A figure with a love for the tranquil and a babbling brook
+A person with skin adorned with constellations that shift with the night sky
+A figure with eyes that contain visible scenes from other worlds
+A person whose hands leave glowing fingerprints that slowly fade
+A figure with a third eye that opens only in moonlight
+A person who appears blurry, as if constantly in motion
+A figure with limbs that morph into different tools when needed
+A person whose shadow contains ghostly figures moving independently
+A figure with teeth that change shape based on their words
+A person who shivers constantly despite wearing layers of furs
+A figure whose clothing moves and flows against the wind
+A person with a voice that causes visible ripples in the air
+A figure with skin that sparkles with embedded crystals
+A person whose tears create small flowers where they land
+A figure with tattoos that move across their skin of their own accord
+A person whose hair changes length and style with their mood
+A figure with an exoskeleton visible beneath translucent skin
+A person with multiple pupils in each eye, all moving independently
+A figure whose presence causes nearby metal to slowly rust
+A person with symbiotic creatures living beneath their skin
+A figure whose body can fold and unfold like paper
+A person with extremities that occasionally become ethereal
+A figure surrounded by floating objects that orbit them slowly
+A person whose fingers branch into smaller fingers at the tips
+A figure with an impossible number of joints in their limbs
+A person whose clothing forms from their own shed skin
+A figure with features that blend and blur when they're emotional
+A person whose blood visibly runs backward through their veins
+A figure who leaves behind small duplicates of themselves that dissolve
+A person with a mind visibly working behind glass portions of skull
+A figure whose body is half-consumed by living shadow
+A person with extremities that occasionally ignite with magical flame
+A figure whose organs are visible and floating within a transparent torso
+A person with multiple faces that rotate based on their emotions
+A figure with tribal markings that glow when they speak truths
+A person whose form occasionally glitches like a magical illusion
+A figure with a body containing visible miniature versions of places they've been
+A person with features from different evolutionary paths merged together
+A figure who sometimes accidentally phases through solid objects
+A person with breath that crystallizes into message-bearing shapes
+A figure whose footprints transform into small creatures that scurry away
+A person with a translucent skull revealing a luminous brain
+A figure whose presence causes nearby plants to rapidly grow
+A person with skin that ripples like water when touched
+A figure whose words become temporarily visible in the air
+A person with a pulsing light visible through their chest
+A figure whose body parts can detach and hover nearby
+A person surrounded by ghostly images of their possible futures
+A figure with a face that appears differently to each observer
+A person with flesh composed of tiny moving cogs and gears
+A figure with a spectral duplicate that mimics their actions with delay
+A person whose body contains visible star systems in motion
+A figure who flickers between solid form and colored smoke
+A person with features that occasionally revert to childhood appearance
+A figure who exists partially in another dimension
+A person wrapped in bandages with arcane sigils covering them
+A figure with an hourglass embedded in their chest counting down
+A person whose joints bend in anatomically impossible ways
+A figure with a body that occasionally becomes two-dimensional
+A person whose form flickers like a candle flame in gentle wind
+A figure with features that migrate across their body
+A person who leaves an afterimage when moving suddenly
+A figure composed of tightly packed mechanical insects
+A person whose skin occasionally becomes transparent revealing complex patterns
+A figure whose presence causes small objects to levitate nearby
+A person with facial features arranged in impossible configurations
+A figure whose body occasionally separates into hovering components
+A person with a swarm of tiny lights constantly orbiting them
+A figure with limbs that can stretch to impossible lengths
+A person whose body contains visible aquatic creatures swimming inside
+A figure who appears differently when viewed from different angles
+A person with features that loop and reconnect like escher architecture
+A figure whose body parts fade into other dimensions at the edges
+A person with extremities that occasionally transform into elemental energy
+A figure whose presence distorts sound in an unnatural way
+A person with a body that seems constantly out of focus
+A figure who occasionally splits into multiple transparent copies
+A person whose heartbeat is visible as pulses of light through their skin
+A figure whose words manifest as small temporary creatures
+A person with a body that occasionally develops crystalline growths
+A figure whose movements leave trails of fading color
+A person whose physical form shifts between different ages
+A figure with multiple overlapping outlines around their body
+A person who appears slightly ahead of their actual position
+A figure whose body incorporates aspects of nearby architecture
+A person whose features become indistinct in direct sunlight
+A figure who occasionally becomes a living negative image
+A person whose form briefly disperses into particles when startled
+A figure with a body that contains visible quantum possibilities
+A person whose wounds heal with materials other than flesh
+A figure whose body occasionally becomes visibly electromagnetic
+A person whose skin resembles cracked porcelain held together by golden seams
+A figure whose eyes contain miniature versions of whatever they're looking at
+A person whose facial features rearrange when they're expressing emotions
+A figure with a body that occasionally phases through reality
+A person with skin that changes texture based on their surroundings
+A figure whose internal organs are visible as glowing outlines
+A person who leaves duplicate afterimages when moving quickly
+A figure whose body parts can transform into living weapons
+A person whose limbs are connected by visible streams of energy
+A figure with eyes that project images of their thoughts
+A person whose blood flows with visible metallic particles
+A figure whose presence causes minor reality fluctuations
+A person with clothing that grows from their own body
+A figure whose form occasionally separates into component elements
+A person with features from multiple species blended together
+A figure who speaks with the collective voice of many entities
+A person whose body contains a visible ecosystem
+A figure with clothing that changes based on nearby observers
+A person whose physical form occasionally becomes musical notation
+A figure whose presence causes water to form patterns
+A person with limbs that can transform into tools or weapons
+A figure who appears to be made of constantly shifting smoke
+A person whose body is covered in eyes that open and close independently
+A figure with a form that occasionally becomes quantum uncertainty
+A person whose physical appearance changes with the time of day
+A figure whose body contains visible clockwork mechanisms
+A person who constantly flickers between multiple possible appearances
+A figure with extremities that occasionally become ghostly
+A person whose skin reveals different layers of reality when damaged
+A figure with a body made of constantly shifting puzzle pieces
+A person with an impossible anatomy that somehow functions
+A figure whose form is composed of thousands of tiny moving runes
+A person whose physical form occasionally becomes liquid
+A figure with a body that sometimes reveals the void beneath
+A person with features that sometimes exhibit animal characteristics
+A figure whose presence causes small objects to orbit them
+A person whose body can unfold like origami revealing complex patterns
+A figure with skin that occasionally becomes a window to other places
+A person with a form that sometimes splits into multiple versions
+A figure whose body contains visible star systems
+A person whose physical features shift depending on who's viewing them
+A figure with a body that occasionally becomes two-dimensional
+A person who leaves a trail of fading copies when moving
+A figure whose body contains visible microcosms of other realms
+A person with limbs that occasionally dissolve into particles
+A figure whose features migrate around their body
+A person with a form that ripples like water when they move
+A figure whose body occasionally exhibits impossible geometry
+A person with skin that functions as a living canvas of their memories
+A figure whose presence distorts nearby architecture subtly
+A person whose form occasionally becomes an illusion revealing their true nature
+A figure with a body composed of constantly moving fractals
+A person whose features change with each blink of an observer
+A figure who exists as a hole in reality shaped like a person
+A person whose body parts can detach and act independently
+A figure with a form that sometimes reveals machinery underneath
+A person whose physical appearance changes with the phases of the moon
+A figure whose body contains visible dimensional gateways
+A person with extremities that occasionally become pure energy
+A figure whose presence causes nearby shadows to move independently
+A person with a form that sometimes becomes a living constellation
+A figure whose body occasionally reveals the cosmos within
+A person who appears different depending on which eye you view them with
+A figure with a physical form that occasionally becomes transparent
+A person with a swamp witch's weathered face and mossy hair
+A figure with the pallid complexion of one recently raised from the dead
+A person with aristocratic features and a condescending sneer
+A figure with the innocent face and bright eyes of eternal youth
+A person with ritual scarification marking them as a tribal outcast
+A figure with unnaturally perfect features resembling a living doll
+A person with the weathered skin of someone who has lived outdoors for decades
+A figure with the distinctive features of foreign royalty
+A person with a face masked by elaborate ceremonial paint
+A figure with the muscular build of a professional athlete
+A person with the stooped posture of a lifetime scholar
+A figure with the calloused hands of a master craftsman
+A person with the confident stance of a career soldier
+A figure with the graceful movements of a trained dancer
+A person with the darting eyes of someone constantly on alert
+A figure with the distinctive uniform of a specialized profession
+A person with the tattoos of a particular criminal organization
+A figure with the ceremonial regalia of a high priest
+A person with the features distorted by a magical experiment gone wrong
+A figure with the characteristic mutations of exposure to wild magic
+A person with the distinctive marks of having survived a legendary disease
+A figure with the physical signs of being blessed by a specific deity
+A person with the unmistakable aura of someone who has died and returned
+A figure with the unnatural stillness of something pretending to be human
+A person with the visible signs of being partially transformed into something else
+A figure with the ritualistic body modifications of an ancient cult
+A person with the distinctive gemstone eyes of a rare lineage
+A figure with the physical characteristics of being born during a celestial event
+A person with the subtle indicators of being much older than they appear
+A figure with the uncanny resemblance to a historical figure
+A person with the visible signs of having made a pact with otherworldly beings
+A figure with the distinctive appearance of being from a lost civilization
+A person with the physical traits of having survived in an extreme environment
+A figure with the unnaturally symmetric features of magical creation
+A person with the distinctive look of someone who has traveled between planes
+A figure with the physical signs of having absorbed magical energy
+A person with the characteristic appearance of being partially fae
+A figure with the unmistakable presence of royalty in disguise
+A person with the distinctive look of someone carrying an ancient curse
+A figure with the physical traits of having been raised by non-humanoids
+A person with the characteristic appearance of a specific secret society
+A figure with the unmistakable signs of being a vessel for something else
+A person with the distinctive modifications required for a specialized profession
+A figure with the physical traits of being descended from legendary heroes
+A person with the unmistakable appearance of having survived magical petrification
+A figure with the characteristic markers of having communed with the dead
+A person with the distinctive look of someone from a nomadic desert tribe
+A figure with the physical indicators of being born during a rare arcane convergence
+A person with the unmistakable traits of being partially of elemental origin
+A figure with the distinctive physical characteristics of being blessed by nature
+A person with the trademark appearance of a particular magical academy
+A figure with the unmistakable look of having been altered by a wish spell
+A person with the physical signs of having been touched by divine power
+A figure with the characteristic appearance of someone who can see through illusions
+A person with the distinctive traits of being born under a prophesied star
+A figure with the unmistakable signs of having survived possession
+A person with the physical characteristics of having an unusual ancestry
+A figure with the distinctive appearance of someone from a secretive mountain clan
+A person with the unmistakable look of being able to perceive invisible things
+A figure with the physical traits of having survived being lost in the Feywild
+A person with the distinctive signs of having made a deal with a devil
+A figure with the characteristic appearance of being immune to a specific element
+A person with the unmistakable traits of having once been something other than human
+A figure with the physical signs of having been blessed by the moon
+A person with the distinctive appearance of having an empathic connection to animals
+A figure with the unmistakable traits of being descended from giants
+A person with the physical characteristics of having been raised in total darkness
+A figure with the distinctive signs of being able to speak with the dead
+A person with the unmistakable appearance of having cheated death multiple times
+A figure with the physical traits of having spent years in an elemental plane
+A person with the distinctive look of having been touched by shadowfell
+A figure with the characteristic appearance of being able to see the future
+A person with the unmistakable signs of having an unusual birthright
+A figure with the physical traits of being descended from dragons
+A person with the distinctive appearance of having made a sacrifice for power
+A figure with the characteristic signs of being haunted by something invisible
+A person with the unmistakable look of having witnessed a god
+A figure with the physical traits of having survived being lost at sea
+A person with the distinctive appearance of being followed by spirits
+A figure with the characteristic signs of having undergone a ritual rebirth
+A person with the unmistakable traits of being touched by primordial chaos
+A figure with the physical indicators of having ancestral memories
+A person with the distinctive appearance of being born during an eclipse
+A figure with the characteristic signs of having been saved by divine intervention
+A person with the unmistakable traits of being resistant to magic
+A figure with the physical indicators of having an exceptional destiny
+A person with the distinctive appearance of being from an isolated island culture
+A figure with the characteristic signs of having lived multiple lives
+A person with the unmistakable traits of having natural magical abilities
+A figure with the physical indicators of being the last of their kind
+A person with the distinctive appearance of being raised by wolves
+A figure with the characteristic signs of having survived a legendary catastrophe
+A person with the unmistakable traits of being able to see magical auras
+A figure with the physical indicators of having royal blood
+A person with the distinctive appearance of being marked by prophecy
+A figure with the characteristic signs of having made a pact with the sea
+A person with the unmistakable traits of being blessed in childbirth
+A figure with the physical indicators of having survived exile in the underdark
+A person with the distinctive appearance of being guided by ancestors
+A figure with the characteristic signs of having overcome a terrible curse
+A person with the distinctive presence of a weathered, veteran sailor
+A figure with the look of a hardened mercenary who has seen too much
+A person with the dignified appearance of a retired military commander
+A figure whose face bears the distinctive markings of a tribal storyteller
+A person with the unmistakable confidence of a master illusionist
+A figure with the precise movements and alert eyes of a professional bodyguard
+A person with the particular accent and mannerisms of distant nobility
+A figure with the worn hands and focused gaze of a master jeweler
+A person whose face shows the characteristic scars of a ritualistic coming-of-age ceremony
+A figure with the distinctive gait of someone used to walking in heavy armor
+A person with the observant demeanor of a trained spy
+A figure with the distinctive appearance of having been altered by wild magic
+A person with the characteristic attire of a renowned monster hunter
+A figure with the subtle marks indicating they've survived a rare magical disease
+A person with the distinctive traits of being raised in a particularly harsh climate
+A figure with the particular mannerisms of having been educated in a prestigious arcane academy
+A person with the unmistakable bearing of someone who has died and returned
+A figure with the physical traits indicating mixed heritage from unusual ancestries
+A person with the distinct markings of having survived torture or imprisonment
+A figure with the characteristic mutations from exposure to an artifact of great power
+A person with the distinctive attire and presence of a cult leader
+A figure with the subtle signs of being much older than they appear
+A person with the unmistakable mannerisms of being raised by a non-human species
+A figure with the distinctive traits of having made a pact with a powerful entity
+A person with the physical signs of having survived being lost in the Astral Plane
+A figure with the characteristic appearance of someone who can see glimpses of the future
+A person with the unmistakable traits of being partially transformed into an elemental being
+A figure with the distinctive adaptations necessary for underwater survival
+A person with the characteristic appearance of having been blessed by a specific deity
+A figure with the unmistakable signs of being the last descendant of a legendary bloodline
+A person with the distinctive physical traits of being born during a magical cataclysm
+A figure with the characteristic appearance of someone who has traveled through time
+A person with the unmistakable signs of having absorbed the powers of a defeated enemy
+A figure with the distinctive traits of having survived in the Feywild for many years
+A person with the characteristic appearance of being partially possessed
+A figure with the unmistakable signs of having cheated their own fate
+A person with the distinctive physical traits of being descended from celestials
+A figure with the characteristic appearance of someone marked by an ancient prophecy
+A person with the unmistakable signs of being able to commune with nature
+A figure with the distinctive traits of having undergone extensive magical modification
+A person with the characteristic appearance of being haunted by a specific entity
+A figure with the unmistakable signs of having made a sacrifice for forbidden knowledge
+A person with the distinctive physical traits of being born with an unusual magical gift
+A figure with the characteristic appearance of someone who has found immortality
+A person with the unmistakable signs of having survived being cursed
+A figure with the distinctive traits of having royal blood from a fallen kingdom
+A person with the characteristic appearance of being able to perceive invisible creatures
+A figure with the unmistakable signs of having been raised by druids
+A person with the distinctive physical traits of being touched by shadow magic
+A figure with the characteristic appearance of someone who has traveled to other planes
+A person with the unmistakable signs of having undergone a magical transformation
+A figure with the distinctive traits of being the chosen champion of a deity
+A person with the characteristic appearance of being resistant to aging
+A figure with the unmistakable signs of having made a deal with death
+A person with the distinctive physical traits of being born during a conjunction of planes
+A figure with the characteristic appearance of someone who can speak with deceased ancestors
+A person with the unmistakable signs of having been experimented on by a mad wizard
+A figure with the distinctive traits of being descended from mythical beasts
+A person with the characteristic appearance of being able to control a specific element
+A figure with the unmistakable signs of having been resurrected multiple times
+A person with the distinctive physical traits of being born with prophecy marks
+A figure with the characteristic appearance of someone who draws power from nature
+A person with the unmistakable signs of having survived exposure to the Far Realm
+A figure with the distinctive traits of being partially fae
+A person with the characteristic appearance of being able to interact with ghosts
+A figure with the unmistakable signs of having an unusual connection to magic
+A person with the distinctive physical traits of being descended from an ancient hero
+A figure with the characteristic appearance of someone who was raised by constructs
+A person with the unmistakable signs of having survived a legendary disaster
+A figure with the distinctive traits of being blessed with unusual longevity
+A person with the characteristic appearance of being able to see through deception
+A figure with the unmistakable signs of having undergone a spiritual awakening
+A person with the distinctive physical traits of being born during an arcane storm
+A figure with the characteristic appearance of someone who has been touched by divine power
+A person with the unmistakable signs of having an extraordinary destiny
+A figure with the distinctive traits of being from an isolated monastery
+A person with the characteristic appearance of being protected by spirits
+A figure with the unmistakable signs of having survived a soul-binding ritual
+A person with the distinctive physical traits of being descended from elementals
+A figure with the characteristic appearance of someone who can manipulate dreams
+A person with the unmistakable signs of having made a sacrifice for their community
+A figure with the distinctive traits of being reincarnated from a previous life
+A person with the characteristic appearance of being able to sense magical energy
+A figure with the unmistakable signs of having survived exile in a harsh environment
+A person with the distinctive physical traits of being born during a blood moon
+A figure with the characteristic appearance of someone who has found ancient knowledge
+A person with the unmistakable signs of having overcome a debilitating curse
+A figure with the distinctive traits of being the last member of a secret order
+A person with the characteristic appearance of being guided by a mysterious patron
+A figure with the unmistakable signs of having mastered forbidden magic
+A person with the distinctive physical traits of being born with an animal companion
+A figure with the characteristic appearance of someone who has transcended mortality
+A person with the unmistakable signs of having survived a magical catastrophe
+A figure with the distinctive traits of being descended from legendary warriors
+A person with the characteristic appearance of being able to walk between worlds
+A figure with the unmistakable signs of having been saved by a miracle
+A person with the distinctive physical traits of being touched by celestial power
+A figure with the characteristic appearance of someone who can commune with the elements
+A person with the unmistakable signs of having undergone a mystical transformation
+A figure with the distinctive traits of being chosen by an ancient artifact
+A person wearing an elaborate masquerade mask they never remove
+A figure with a bald head covered in mystic tattoos that shift positions
+A person with skin like polished onyx that reflects light unnaturally
+A figure wearing ceremonial scars that form a map to a legendary location
+A person with eyes that change color based on the direction they're looking
+A figure wearing elaborate mechanical prosthetics with magical enhancements
+A person with a transparent chest revealing a glowing crystal where their heart should be
+A figure whose shadow occasionally performs different actions than they do
+A person with ritualistic brands marking them as a vessel for an ancient spirit
+A figure with multiple sets of smaller arms beneath their main arms
+A person with skin that constantly shifts through different natural patterns
+A figure with elongated limbs and unnaturally fluid movements
+A person with gemstones embedded at key points along their spine
+A figure wearing living armor made from a symbiotic creature
+A person with small antennae that twitch in the direction of magical energy
+A figure with a face divided perfectly between two different appearances
+A person with clockwork components visible through transparent sections of skin
+A figure whose clothing is made from the pages of forbidden texts
+A person with iridescent scales in patterns denoting noble draconic heritage
+A figure with a voice that seems to come from everywhere except their mouth
+A person with a miniature familiar that lives in a specially designed compartment
+A figure whose ceremonial dress incorporates bones from a legendary beast
+A person with a mechanical eye that occasionally projects images they've seen
+A figure wearing a cloak made from thousands of tiny preserved butterflies
+A person with six fingers on each hand, all bearing significant rings
+A figure whose braided hair seems to move with a mind of its own
+A person with a pocket watch embedded in their palm that never needs winding
+A figure wearing tailored garments made from materials not found in this realm
+A person with a perpetual mist that surrounds them regardless of environment
+A figure with tribal scarification that glows faintly in darkness
+A person with a specially crafted container holding a preserved organ
+A figure whose elaborate headdress contains components that serve as spell focuses
+A person with a neck elongated by ceremonial rings denoting their status
+A figure wearing a formal uniform from a military order thought long extinct
+A person whose elaborate facial markings change pattern with the lunar cycle
+A figure with a walking staff containing a still-living creature preserved in amber
+A person covered in ritualistic piercings connected by fine chains of rare metals
+A figure with ceremonial pauldrons crafted from the skull of a mythical beast
+A person whose multi-layered robes each represent a different school of magic
+A figure whose ornamental weapon is actually a disguised magical artifact
+A person with a web of fine scars forming constellations across their face
+A figure with a permanently affixed mask that changes its expression independently
+A person whose elaborate body paint shifts colors based on nearby magical auras
+A figure wearing a veil of material so fine it's nearly invisible yet never tears
+A person with animated tattoos that move across their skin telling an endless story
+A figure with ceremonial burns in the pattern of their deity's holy symbol
+A person whose elaborate hairstyle contains hidden compartments for tools or potions
+A figure with skin that has been ritualistically infused with precious metals
+A person with a mechanical harness that helps support an old battle injury
+A figure whose ceremonial garb incorporates relics from multiple fallen civilizations
+A person whose elaborate eye makeup extends beyond their face in mystical patterns
+A figure with a perpetual aurora-like glow surrounding them at all times
+A person with a skeletal framework visible beneath translucent portions of skin
+A figure whose elaborate neck piece contains preserved specimens from their travels
+A person with ritualistic scarification that forms a complete magical circle
+A figure with a specially designed pack containing a miniature ecosystem
+A person whose elaborate braided beard contains small trinkets from their conquests
+A figure with a personal weather system that follows them everywhere
+A person whose elaborate ear modifications allow them to hear normally imperceptible sounds
+A figure with a specially crafted pendant containing a fragment of a legendary artifact
+A person with ceremonial armor made from the scales of a creature they defeated
+A figure whose elaborate facial piercing serves as a magical focus
+A person with hands stained permanently from working with rare alchemical ingredients
+A figure whose elaborate belt is actually a disguised familiar or companion
+A person with a specialized breathing apparatus for surviving in multiple environments
+A figure with a ceremonial cape that responds to their emotional state
+A person whose elaborate boots leave tracks that fade away after a specific time
+A figure with a specially modified eyepatch covering a magical replacement eye
+A person with elaborate nail extensions that double as specialized tools
+A figure wearing regalia indicating leadership of a secret society
+A person whose elaborate ceremonial dagger can never be separated from them
+A figure with specially designed gloves that enhance their magical abilities
+A person with a ritualistic head covering that hides an unusual physical feature
+A figure whose elaborate walking staff contains specimens from every place they've visited
+A person with a symbiotic plant that grows along their spine providing benefits
+A figure wearing elaborate robes containing hidden pockets in impossible places
+A person with a specially modified voice box allowing them to mimic any sound
+A figure whose elaborate wrist guards contain hidden weapons or tools
+A person with ritualistic markings that glow when they cast certain spells
+A figure with a specially designed container holding a piece of their soul
+A person whose elaborate headdress serves as a home for a small companion creature
+A figure with ceremonial armor that shifts to accommodate their fighting style
+A person with a specially designed face paint that changes based on ambient magic
+A figure whose elaborate neck tattoo extends down their body in a continuous pattern
+A person with ritualistic modifications to their feet allowing unusual movement
+A figure with a specially crafted breathing mask filtering toxins or enhancing abilities
+A person whose elaborate jewelry contains components of a disassembled artifact
+A figure with ceremonial braids containing tokens from significant moments in their life
+A person with a specially designed cloak that adapts to environmental conditions
+A figure whose elaborate facial structure has been ritualistically modified
+A person with ceremonial brands marking them as a survivor of a legendary event
+A figure with a specially crafted focusing lens always worn over one eye
+A person whose elaborate back piece tells the story of their lineage
+A figure with ceremonial armor inlaid with runes of protection
+A person with a specially designed implement allowing them to commune with specific entities
+A figure whose elaborate finger jewelry connects to form a complex magical circuit
+A person with ritualistic scars marking them as having survived a legendary trial
+A figure with a specially crafted container holding a fragment of an extradimensional space
+A person whose elaborate ceremonial attire marks them as a high priest of a forgotten deity
+A figure with a specialized harness containing multiple spell components ready for use
+A person with an aged face that bears the wrinkles of a thousand smiles
+A figure with eyes so pale they appear almost white, yet they see perfectly
+A person whose weathered hands tell stories of decades of hard work
+A figure with a military bearing and the distant gaze of someone who's seen war
+A person with the sun-darkened skin and squint lines of a lifetime sailor
+A figure with the delicate, precise hands of a master artisan
+A person with a face bearing the symmetrical scars of a ritual coming-of-age ceremony
+A figure with the distinctive posture of someone trained from childhood in a martial art
+A person with unnaturally vibrant eyes that seem to catch all available light
+A figure with the graceful movements of a lifelong dancer
+A person with skin bearing the marks of a disease survived in childhood
+A figure with the stoic expression of someone who has endured great hardship
+A person with the precise, careful movements of someone trained to handle dangerous materials
+A figure with a face whose laugh lines and frown lines tell contradicting stories
+A person with hands permanently stained from years working with specific materials
+A figure with the characteristic facial tattoos of a nomadic desert tribe
+A person with the reserved demeanor of someone raised in monastic silence
+A figure with the distinctive accent and mannerisms of distant mountainfolk
+A person with eyes that never seem to blink
+A figure with the distinctive gait of someone who grew up in a place with different gravity
+A person with the perpetual slight tremor of someone who has witnessed horrific magic
+A figure with the telltale signs of having survived extreme cold
+A person with the distinctive nervous habits of someone who lived through a siege
+A figure with the careful, precise speech of someone who once misused powerful words
+A person with the unmistakable scars of having survived a legendary monster's attack
+A figure with the distinctive physical characteristics of being raised by wolves
+A person with the unconscious mannerisms of nobility trying to pass as common
+A figure with the subtle physical traits of having distant non-human ancestry
+A person with the distinctive outfit of a specialized profession rarely seen in this region
+A figure with the characteristic physical traits of someone who has spent years underground
+A person with the unmistakable bearing of someone who has commanded armies
+A figure with the distinctive speech pattern of a forgotten dialect
+A person with the characteristic physical adaptations of living in extreme heat
+A figure with the unmistakable signs of having survived a magical transformation
+A person with the distinctive appearance of someone who has been touched by fey
+A figure with the characteristic mannerisms of someone raised in a different era
+A person with the unmistakable physical traits of being descended from an ancient bloodline
+A figure with the distinctive signs of having survived being lost in a magical wasteland
+A person with the characteristic bearing of someone who has counseled kings
+A figure with the unmistakable physical traits of having once been petrified
+A person with the distinctive voice of someone who has inhaled unusual alchemical fumes
+A figure with the characteristic appearance of being born during a celestial convergence
+A person with the unmistakable signs of having made a deal with an extraplanar entity
+A figure with the distinctive features of someone who has died and returned
+A person with the characteristic traits of having been raised by a magical creature
+A figure with the unmistakable physical signs of having survived a legendary plague
+A person with the distinctive markings of being chosen by an ancient prophecy
+A figure with the characteristic appearance of being from a civilization lost to time
+A person with the unmistakable signs of having been changed by wild magic
+A figure with the distinctive physical traits of being descended from legendary heroes
+A person with the characteristic appearance of being able to see invisible things
+A figure with the unmistakable signs of having survived in the Feywild
+A person with the distinctive physical traits of being born under a rare celestial event
+A figure with the characteristic appearance of someone who has been blessed by nature
+A person with the unmistakable signs of having communed with powerful entities
+A figure with the distinctive physical traits of being descended from elemental beings
+A person with the characteristic appearance of someone who was raised by constructs
+A figure with the unmistakable signs of having absorbed power from an ancient source
+A person with the distinctive physical traits of being born during a planar conjunction
+A figure with the characteristic appearance of someone who can perceive abstract concepts
+A person with the unmistakable signs of having undergone a magical awakening
+A figure with the distinctive physical traits of being touched by shadow
+A person with the characteristic appearance of someone who has traveled through time
+A figure with the unmistakable signs of having been part of a great magical working
+A person with the distinctive physical traits of being blessed with unusual longevity
+A figure with the characteristic appearance of someone who is haunted by spirits
+A person with the unmistakable signs of having survived exposure to raw chaos
+A figure with the distinctive physical traits of being born with a twin who never separated
+A person with the characteristic appearance of someone who can speak with the dead
+A figure with the unmistakable signs of having made a sacrifice for power
+A person with the distinctive physical traits of being descended from divine beings
+A figure with the characteristic appearance of someone who has mastered forbidden magic
+A person with the unmistakable signs of having survived a soul-binding ritual
+A figure with the distinctive physical traits of being born during an arcane storm
+A person with the characteristic appearance of someone who draws power from nature
+A figure with the unmistakable signs of having cheated their own fate
+A person with the distinctive physical traits of being the last of their bloodline
+A figure with the characteristic appearance of someone who can perceive multiple timelines
+A person with the unmistakable signs of having undergone a spiritual transformation
+A figure with the distinctive physical traits of being born with a prophesied destiny
+A person with the characteristic appearance of someone who has traveled between worlds
+A figure with the unmistakable signs of having survived being lost in the Astral Plane
+A person with the distinctive physical traits of being partially transformed into an elemental
+A figure with the characteristic appearance of someone who was raised by a legendary creature
+A person with the unmistakable signs of having been marked by an ancient artifact
+A figure with the distinctive physical traits of being descended from an ancient hero
+A person with the characteristic appearance of someone who has mastered time manipulation
+A figure with the unmistakable signs of having been cursed and recovered
+A person with the distinctive physical traits of being born during a celestial event
+A figure with the characteristic appearance of someone who has communed with primordial forces
+A person with the unmistakable signs of having survived exposure to the Far Realm
+A figure with the distinctive physical traits of being touched by divine power
+A person with the characteristic appearance of someone who has died multiple times
+A figure with the unmistakable signs of having made a pact with an ancient being
+A person with the distinctive physical traits of being born with an unusual magical gift
+A figure with the characteristic appearance of someone who has transcended mortality
+A person with the unmistakable signs of having survived a magical catastrophe
+A figure with the distinctive physical traits of being descended from legendary creatures
+A person with the characteristic appearance of being able to walk between worlds
+A figure with the unmistakable aura of someone with an extraordinary destiny

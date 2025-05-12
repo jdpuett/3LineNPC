@@ -36,7 +36,7 @@ This minimal approach creates NPCs that are easy to remember and use, while stil
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/jdpuett/3LineNPC.git
+git clone git@github.com:jdpuett/3LineNPC.git
 ```
 
 2. Navigate to the directory:

@@ -263,8 +263,17 @@ class NPCApp:
         self.status_bar.pack(fill=tk.X, side=tk.BOTTOM, pady=(10, 0))
         
     def bind_shortcuts(self):
-        """Set up keyboard shortcuts."""
-        self.root.bind("<space>", lambda e: self.generate_npc())
+        """Set up keyboard shortcuts with focus checking to prevent conflicts."""
+        # Space key generates NPC, but only when not focused on text input
+        def space_handler(event):
+            # Don't trigger when the focus is in the name entry
+            if event.widget != self.name_entry:
+                self.generate_npc()
+        
+        # Bind space key with the handler that checks for focus
+        self.root.bind("<space>", space_handler)
+        
+        # Other shortcuts work regardless of focus
         self.root.bind("<Control-s>", lambda e: self.save_npc())
         self.root.bind("<Escape>", lambda e: self.root.destroy())
     

@@ -1,33 +1,36 @@
-# 3LineNPC
+# 3LineNPC Generator
 
-A simple and powerful random NPC generator for tabletop RPGs, based on Johnn Four's 3 Line NPC concept.
+A simple yet powerful random NPC generator for tabletop RPGs, based on Johnn Four's 3 Line NPC concept.
 
-![3LineNPC Screenshot](https://github.com/jdpuett/3LineNPC/raw/main/screenshot.png)
+![3LineNPC Screenshot](screenshot.png)
 
 ## What is a 3 Line NPC?
 
-A 3 Line NPC is a quick, concise way to create memorable non-player characters for your tabletop RPG sessions. Each NPC is described with just three lines:
+A 3 Line NPC is a concise method for creating memorable non-player characters for tabletop RPG sessions. Each NPC consists of just three elements:
 
 1. **Appearance**: A physical description or visual hook
 2. **Role**: Their occupation, purpose, or place in society
-3. **Hook**: A motivation, secret, goal, or plot hook
+3. **Hook**: A motivation, secret, goal, or plot hook that can drive story
 
-This minimal approach creates NPCs that are easy to remember and use, but still have enough detail to engage your players.
+This minimal approach creates NPCs that are easy to remember and use, while still providing enough detail to engage players and enrich your game world.
 
 ## Features
 
-- Simple GUI interface
+- Clean, simple GUI interface
 - Generate NPCs with a single click
-- Easily expandable trait files
-- Lightweight and standalone
-- Cross-platform (Windows, macOS, Linux)
+- Save and manage your generated NPCs
+- Export NPCs to JSON format
+- Import previously saved NPCs
+- Export directly to Campaign Logger XML format
+- Color-coded display for better readability
+- Platform-independent (works on Windows, macOS, and Linux)
+- Support for custom trait files
 
 ## Installation
 
 ### Prerequisites
 
 - Python 3.6 or higher
-- Tkinter (usually included with Python installation)
 
 ### Setup
 
@@ -43,14 +46,30 @@ cd 3LineNPC
 
 3. Run the application:
 ```bash
-python3 main.py
+python main.py
 ```
 
 ## Usage
 
-1. Click the "Generate" button to create a new random NPC
-2. Continue clicking to generate more NPCs
-3. Copy and paste the results into your notes for game preparation
+### Basic Operation
+
+1. Click the "Generate NPC" button to create a new random NPC
+2. Enter a name in the "NPC Name" field (optional)
+3. Click "Save NPC" to add the current NPC to your collection
+4. Continue generating and saving NPCs as needed
+5. Use "View Saved" to see all your saved NPCs
+
+### Keyboard Shortcuts
+
+- **Space**: Generate a new NPC
+- **Ctrl+S**: Save the current NPC
+- **Esc**: Exit the application
+
+### Exporting and Importing
+
+- **Export NPCs**: Save all your NPCs to a JSON file
+- **Import NPCs**: Load previously saved NPCs from a JSON file
+- **Export to Campaign Logger**: Export NPCs to Campaign Logger XML format for use with the Campaign Logger tool
 
 ## Customization
 
@@ -59,19 +78,18 @@ The generator uses three text files for its data:
 - `roles.txt` - Occupations or social roles
 - `hooks.txt` - Motivations, secrets, or plot hooks
 
-You can edit these files to add your own content or tailor them to a specific setting, genre, or campaign.
+You can edit these files to add your own content or tailor them to a specific setting, genre, or campaign. Each file should contain one trait per line, with no special formatting needed.
 
-### Format
+## Campaign Logger Integration
 
-Each file should contain one trait per line. For example:
+The 3LineNPC Generator can export your NPCs in a format compatible with Johnn Four's [Campaign Logger](https://campaign-logger.com/) tool. This feature allows you to:
 
-```
-A scarred old warrior
-A mysterious cloaked figure
-A cheerful young merchant
-```
+1. Generate NPCs in the 3LineNPC Generator
+2. Save the NPCs you like
+3. Export them to Campaign Logger XML format
+4. Import them into Campaign Logger for use in your game notes
 
-No numbering or formatting is needed - just plain text entries.
+The exported NPCs maintain their appearance, role, and hook information, properly formatted for Campaign Logger's interface.
 
 ## Contributing
 
@@ -94,7 +112,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Future Plans
 
-- Save/load functionality for generated NPCs
-- Export options (PDF, CSV)
-- Tags and filtering for traits
 - Categories for different settings (fantasy, sci-fi, modern, etc.)
+- Filter and search capabilities for saved NPCs
+- Additional export formats (PDF, HTML)
+- Editing of saved NPCs
+- Trait weighting and relationships
+- Custom templates for different NPC types
